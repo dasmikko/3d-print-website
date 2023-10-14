@@ -1,7 +1,7 @@
 <template>
   <div class="navbar">
     <div class="logo">
-      <span>Hobby Print</span>
+      <span>Holbæk 3D Print.dk</span>
     </div>
     <div class="links">
       <a href="#">Om mig</a>
@@ -32,18 +32,18 @@
     @apply flex gap-8 items-center font-bold;
 
     a {
-      @apply px-4 py-2 rounded-full transition duration-150;
+      @apply px-4 py-2 rounded-full transition duration-150 text-white no-underline ;
 
       &:hover {
-        @apply bg-purple-700;
+        @apply bg-green-700;
       }
     }
 
     .cta {
-      @apply bg-purple-500 text-white font-bold rounded-full px-4 py-2 transition duration-150;
+      @apply bg-green-600 text-slate-200 font-bold rounded-full px-4 py-2 transition duration-150 no-underline;
 
       &:hover {
-        @apply bg-purple-600 shadow-xl;
+        @apply bg-green-700 shadow-xl;
       }
     }
   }

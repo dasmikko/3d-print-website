@@ -2,8 +2,16 @@
   <div class="footer">
     <div class="footer-inner">
       <div class="justify-center">
-        <h4>Hobby Print</h4>
+        <h4>Holbæk 3D Print.dk</h4>
         <p>Lokal, personlig og billig 3D print</p>
+      </div>
+      <div>
+        <h5>Links</h5>
+        <ul>
+          <li><NuxtLink to="/om-mig">Om mig</NuxtLink></li>
+          <li><NuxtLink to="/faq">FAQ</NuxtLink></li>
+          <li><NuxtLink to="/handelsbetingelser">Handelsbetingelser</NuxtLink></li>
+        </ul>
       </div>
       <div>
         <h5>Social</h5>
@@ -33,7 +41,7 @@
 
 <style scoped lang="scss">
   .footer {
-  @apply bg-slate-700 text-white flex justify-center ;
+  @apply bg-slate-700 text-white flex justify-center h-96;
 
     .footer-inner {
       @apply container mx-auto flex justify-evenly p-16;
@@ -43,14 +51,17 @@
 
         a {
           @apply text-white no-underline;
+          &:hover {
+            @apply underline;
+          }
         }
 
         h4 {
-          @apply text-4xl mb-0 text-purple-300;
+          @apply text-4xl mb-0 text-amber-300;
         }
 
         h5 {
-          @apply text-2xl mb-4 text-purple-300;
+          @apply text-2xl mb-4 text-amber-300;
         }
 
         ul {

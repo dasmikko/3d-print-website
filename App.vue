@@ -1,10 +1,8 @@
-
-
 <template>
   <Navbar />
 
   <div class="page-content">
-    <router-view />
+    <NuxtPage/>
   </div>
 
   <Footer />
@@ -12,7 +10,14 @@
 
 <script setup>
 import Navbar from './components/Navbar.vue'
-import Footer from './components/Footer.vue';
+import Footer from './components/Footer.vue'
+
+useHead({
+  link: [
+    {href: 'https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comfortaa:wght@700&display=swap',
+      rel: 'stylesheet'}
+  ]
+})
 </script>
 
 <style lang="scss">
@@ -21,7 +26,7 @@ html, body {
   @apply bg-slate-800;
 
   .page-content {
-    @apply text-white;
+    @apply text-white pt-20;
 
     section {
       @apply py-16;
@@ -58,21 +63,24 @@ img {
 }
 
 a {
-  @apply underline text-purple-500;
+  @apply underline text-amber-400;
+}
+
+p {
+  @apply mb-8;
 }
 
 
-
 h1, h2, h3, h4, h5, h6 {
-  @apply mb-8;
+  @apply mt-8 mb-4;
   font-family: 'Bebas Neue', sans-serif;
 }
 
 button {
-  @apply bg-purple-500 text-white font-bold rounded-full px-4 py-2 transition duration-150;
+  @apply bg-green-600 text-white font-bold rounded-full px-4 py-2 transition duration-150;
 
   &:hover {
-    @apply bg-purple-600 shadow-xl;
+    @apply bg-green-700 shadow-xl;
   }
 }
 
