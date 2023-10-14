@@ -48,16 +48,16 @@
     }
 
     h1 {
-      @apply text-6xl font-bold text-white;
+      @apply text-4xl md:text-6xl font-bold text-white;
       font-family: 'Bebas Neue', sans-serif;
     }
 
     .subtitle {
-      @apply text-2xl;
+      @apply text-xl md:text-2xl;
     }
 
     button {
-      @apply text-3xl py-4 px-8;
+      @apply text-xl md:text-3xl py-4 px-8;
     }
   }
 
