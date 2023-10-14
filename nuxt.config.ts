@@ -9,7 +9,8 @@ export default defineNuxtConfig({
     },
   },
   modules: [
-    '@nuxt/content'
+    '@nuxt/content',
+    '@formkit/auto-animate/nuxt'
   ],
   content: {
     // ... options

@@ -43,7 +43,8 @@
       @apply
         flex flex-col gap-8 justify-center items-center
         bg-gray-900 bg-opacity-50
-        h-[calc(100vh-5rem)];
+        h-[calc(100vh-5rem)]
+        px-8 md:px-0;
     }
 
     h1 {

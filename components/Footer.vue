@@ -41,10 +41,10 @@
 
 <style scoped lang="scss">
   .footer {
-  @apply bg-slate-700 text-white flex justify-center h-96;
+  @apply bg-slate-700 text-white flex justify-center h-auto lg:h-96;
 
     .footer-inner {
-      @apply container mx-auto flex justify-evenly p-16;
+      @apply container mx-auto flex justify-between py-16 px-8 flex-col lg:flex-row;
 
       div {
         @apply flex flex-col gap-4;

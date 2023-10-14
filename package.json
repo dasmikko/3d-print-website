@@ -20,6 +20,8 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "@nuxt/content": "^2.8.5"
+    "@formkit/auto-animate": "^0.8.0",
+    "@nuxt/content": "^2.8.5",
+    "vue-tabler-icons": "^2.21.0"
   }
 }

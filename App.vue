@@ -29,7 +29,7 @@ html, body {
     @apply text-white pt-20;
 
     section {
-      @apply py-16;
+      @apply py-16 px-8 md:px-0;
 
       &.text-content {
         @apply container mx-auto;

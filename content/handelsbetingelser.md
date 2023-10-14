@@ -22,7 +22,7 @@ Holbæk 3D Print modtager betaling med MobilePay. Betalingen vil først blive tr
 Holbæk 3D Print tilstræber at afsende ordre indgået inden kl. 17 samme dag, ordre herefter sendes næstfølgende hverdag.
 Vi sender til hele Danmark. Fragtpriser fra 35 kr. Varer vil blive leveret på leveringsadressen, der angives ved bestillingen.
 Vi leverer ikke til udlandet og ikke til Færøerne og Grønland.
-Dine varer sendes med Post Nord eller GLS.
+Dine varer sendes med Post Nord eller GLS.  
 OBS: Hvis der ikke er plads på udleveringsstedet bliver pakken flyttet til nærmeste udleveringssted, hvilket du får besked om. Opstår der problemer, kontakt da kundeservice.
 Der leveres varer alle ugens hverdage. Din vare vil blive leveret 1-3 hverdage efter bestillingen.
 For visse varer gælder særlige leveringsvilkår. Betingelserne vil fremgå specifikt forud for køb af disse varer.
@@ -31,46 +31,9 @@ For visse varer gælder særlige leveringsvilkår. Betingelserne vil fremgå spe
 
 Der gives 2 års reklamationsret i henhold til købeloven. Vores reklamationsret gælder for fejl i materiale og/eller fabrikation. Du kan få varen repareret, ombyttet, pengene retur eller afslag i prisen, afhængig af den konkrete situation. Reklamationen gælder ikke fejl eller skader begået ved forkert håndtering af produktet/ydelsen. Du skal reklamere i "rimelig tid" efter du har opdaget manglen/fejlen. Holbæk 3D Print vil dække returneringsomkostninger i et rimeligt omfang.
 
-Ved returnering, reklamationer og benyttelse af fortrydelsesretten sendes til:
-Holbæk 3D Print
-Baggesens Have 30
-4300 Holbæk
-Der modtages ikke forsendelser pr. efterkrav.
-
-## Refusion
-
-Hvis der er tale om refusion, bedes du medsende bankoplysninger i form af regnr og kontonr, så det aftalte beløb kan overføres. Disse oplysninger kan uden risiko oplyses pr. mail eller anden elektronisk form, da det ikke er følsomme oplysninger og kun vil blive anvendt til vores opfyldelse af refusionen.
-
 ## Fortrydelsesret
 
-Der gives 14 dages fuld returret på varer købt i vores webshop.
-
-
-Perioden regnes fra den dag;
-- Hvor du modtager ordren.
-- Får den sidste vare i fysisk besiddelse, når det drejer sig om en aftale om flere forskellige varer, bestilt i én ordre, men leveres enkeltvis eller af flere omgange.
-- Får det sidste parti, eller sidste del i fysisk besiddelse, når det drejer sig om aftale af levering af varer der består af flere partier/dele.
-- Den første vare i fysisk besiddelse, når det drejer sig om regelmæssig levering af varer over en bestemt periode.
-  Returneringsomkostninger skal du selv afholde.
-  Fortrydelse skal anmeldes til os senest 14 efter købet og fra fortrydelsen skal I senest 14 dage efter returnere forsendelsen. Meddelelsen skal gives pr. mail på dasmikko@gmail.com. I meddelelsen skal du gøre tydeligt opmærksom på, at du ønsker at benytte din fortrydelsesret. Ønsker du at sende varen retur til os, skal du udfylde den vedlagte Returseddel og sende varen til:
-  Holbæk 3D Print
-  Baggesens Have 30
-  4300 Holbæk
-
-Du kan ikke fortryde ved blot at nægte modtagelse af varen, uden samtidig at give tydelig meddelelse herom.
-
-## Varer undtaget fortrydelsesretten
-
-Følgende varetyper indgår ikke i fortrydelsesretten:
-- Varer, som er fremstillet efter forbrugerens specifikationer eller har fået et tydeligt personligt præg.
-- Forseglede varer, som af sundhedsbeskyttelses- eller hygiejnemæssige årsager ikke er egnet til at blive returneret, og hvor forseglingen er brudt efter leveringen.
-- Varer, der grundet sin art bliver uløseligt blandet sammen med andre ved levering.
-- Varer, hvor plomberingen er brudt.
-- Udførte ikke-finansielle tjenesteydelser, hvis levering af tjenesteydelsen er påbegyndt med forbrugerens forudgående udtrykkelige samtykke og anderkendelse af, at fortrydelsesretten ophører, når tjenesteydelsen er fuldt udført.
-- Levering af digitalt indhold, som ikke leveres på et fysisk medium, hvis udførelsen er påbegyndt med forbrugerens forudgående udtrykkelige samtykke og anerkendelse heraf, at vedkommende dermed mister sin fortrydelsesret.
-- Aviser, tidskrifter eller magasiner dog undtaget abonnementsaftaler for sådanne publikationer.
-- Aftaler indgået på offentlig auktion.
-- Varer, der forringes eller forældes hurtigt.
+Da der er tale om en special fremstillet vare, er der ikke fortrydelsesret på køb af 3D printede varer.
 
 ## Returnering
 
@@ -78,28 +41,29 @@ Du skal sende din ordre retur uden unødig forsinkelse og senest 14 dage efter, 
 Du bærer risikoen for varen fra tidspunktet for varens levering og til, vi har modtaget den retur.
 Vi modtager ikke pakker sendt pr. efterkrav.
 
-Varens stand ved returnering
+### Varens stand ved returnering
 
 Du hæfter kun for eventuel forringelse af varens værdi, som skyldes anden håndtering, end hvad der er nødvendigt for at fastslå varens art, egenskaber og den måde, hvorpå den fungerer. Du kan med andre ord prøve varen, som hvis du prøvede den i en fysisk butik.
 
 Hvis varen er prøvet udover, det ovenfor beskrevet, betragtes den som brugt. Hvilket betyder, at du ved fortrydelse af købet kun får en del eller intet af købsbeløbet retur, afhængig af varens handelsmæssige værdi på modtagelsestidspunktet - af returneringen. For at modtage hele købsbeløbet retur må du altså afprøve varen uden egentlig at tage den i brug.
 
-Tilbagebetaling
+### Tilbagebetaling
 
 Fortryder du dit køb, får du naturligvis det beløb du har indbetalt til os retur.
 I tilfælde af en værdiforringelse, som du hæfter for, fratrækkes denne købs-beløbet.
+
 Ved anvendelse af fortrydelsesretten, refunderes alle betalinger modtaget fra dig, herunder leveringsomkostninger (undtaget ekstra omkostninger som følge af dit valg af en anden leveringsform end den billigste form for standardlevering, som vi tilbyder), uden unødig forsinkelse og senest 14 dage fra den dato, hvor vi har modtaget meddelelse om din beslutning om at gøre brug af fortrydelsesretten. Tilbagebetaling gennemføres med samme betalingsmiddel, som du benyttede ved den oprindelige transaktion, medmindre du udtrykkeligt har indvilget i noget andet.
 Vi kan tilbageholde beløbsrefunderingen, indtil vi har modtaget varen retur, med mindre du inden da har fremlagt dokumentation for at have returneret den.
 
-Persondatapolitik
+## Persondatapolitik
 
 For at du kan indgå aftale med os og handle på vores hjemmeside, har vi brug for følgende oplysninger om dig:
 
-Navn
-Adresse
-Telefonnummer
-E-mailadresse
-Oplysning om hvad du har købt
+Navn  
+Adresse  
+Telefonnummer  
+E-mailadresse  
+Oplysning om hvad du har købt  
 
 Vi behandler dine personoplysninger med det formål, at kunne levere varen til dig, og for at kunne behandle henvendelser vedrørende dit køb. Behandlingen sker efter reglerne i vores persondatapolitik for Holbæk 3D Print. Heri kan du læse mere om, hvordan dine oplysninger behandles, hvornår de slettes, og hvilke rettigheder du har som registreret.
 
