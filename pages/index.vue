@@ -7,7 +7,7 @@
     <div class="leading-bg">
       <h1>Din lokale 3D print service</h1>
       <p class="subtitle">Hurtig og billig 3D print til dit projekt, drone, pynt eller hvad ellers kan finde på</p>
-      <button>Få et uforpligtende tilbud!</button>
+      <NuxtLink role="button" class="button" to="/faa-et-tilbud">Få et uforpligtende tilbud!</NuxtLink>
     </div>
   </section>
 
@@ -56,7 +56,7 @@
       @apply text-xl md:text-2xl;
     }
 
-    button {
+    .button {
       @apply text-xl md:text-3xl py-4 px-8;
     }
   }

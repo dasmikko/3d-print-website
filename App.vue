@@ -76,8 +76,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Bebas Neue', sans-serif;
 }
 
-button {
-  @apply bg-green-600 text-white font-bold rounded-full px-4 py-2 transition duration-150;
+button, .button {
+  @apply bg-green-600 text-white font-bold rounded-full px-4 py-2 transition duration-150 no-underline;
 
   &:hover {
     @apply bg-green-700 shadow-xl;
