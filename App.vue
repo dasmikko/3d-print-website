@@ -39,7 +39,7 @@ html, body {
 }
 
 h1 {
-  @apply text-6xl;
+  @apply text-5xl md:text-6xl;
 }
 
 h2 {
