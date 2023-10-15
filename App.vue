@@ -67,7 +67,7 @@ a {
 }
 
 p {
-  @apply mb-8;
+  @apply mb-4;
 }
 
 

@@ -6,6 +6,7 @@
       </NuxtLink>
       <div class="links desktop">
         <NuxtLink to="/om-mig">Om mig</NuxtLink>
+        <NuxtLink to="/inspiration">Inspiration</NuxtLink>
         <NuxtLink to="/faq">FAQ</NuxtLink>
         <NuxtLink to="/faa-et-tilbud" class="cta">Få et tilbud</NuxtLink>
       </div>
@@ -15,6 +16,7 @@
     </div>
     <div class="mobile-links" v-if="showMenu" key="mobile-links">
       <NuxtLink to="/om-mig" @click="toggleMenu">Om mig</NuxtLink>
+      <NuxtLink to="/inspiration">Inspiration</NuxtLink>
       <NuxtLink to="/faq" @click="toggleMenu">FAQ</NuxtLink>
       <NuxtLink to="/faa-et-tilbud" @click="toggleMenu" class="cta">Få et tilbud</NuxtLink>
     </div>
