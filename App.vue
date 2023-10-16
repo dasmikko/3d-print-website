@@ -84,4 +84,8 @@ button, .button {
   }
 }
 
+input {
+  @apply w-full border border-gray-400 rounded px-4 py-2;
+}
+
 </style>

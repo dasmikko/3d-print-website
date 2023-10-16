@@ -15,21 +15,23 @@ Hos Holbæk 3D Print er alle priserne i danske kroner og angivet inkl. moms og a
 
 ## Betaling
 
-Holbæk 3D Print modtager betaling med MobilePay. Betalingen vil først blive trukket på din konto, når varen afsendes. Alle beløb er i DKK. Danske kroner og incl. moms. Der tages forbehold for prisfejl og udsolgte/udgåede varer.
+Holbæk 3D Print modtager betaling med MobilePay. Betalingen vil først blive trukket på din konto, når varen afsendes eller ved afhæntning. Alle beløb er i DKK. Danske kroner.
 
 ## Levering
 
-Holbæk 3D Print tilstræber at afsende ordre indgået inden kl. 17 samme dag, ordre herefter sendes næstfølgende hverdag.
 Vi sender til hele Danmark. Fragtpriser fra 35 kr. Varer vil blive leveret på leveringsadressen, der angives ved bestillingen.
 Vi leverer ikke til udlandet og ikke til Færøerne og Grønland.
-Dine varer sendes med Post Nord eller GLS.  
+Dine varer sendes med Post Nord, GLS eller DAO.  
 OBS: Hvis der ikke er plads på udleveringsstedet bliver pakken flyttet til nærmeste udleveringssted, hvilket du får besked om. Opstår der problemer, kontakt da kundeservice.
 Der leveres varer alle ugens hverdage. Din vare vil blive leveret 1-3 hverdage efter bestillingen.
 For visse varer gælder særlige leveringsvilkår. Betingelserne vil fremgå specifikt forud for køb af disse varer.
+Ved hver pakning vil der tages billeder af indhold som dokumentation, for at sikre at du modtager det du har bestilt.
 
 ## Reklamationsret
 
-Der gives 2 års reklamationsret i henhold til købeloven. Vores reklamationsret gælder for fejl i materiale og/eller fabrikation. Du kan få varen repareret, ombyttet, pengene retur eller afslag i prisen, afhængig af den konkrete situation. Reklamationen gælder ikke fejl eller skader begået ved forkert håndtering af produktet/ydelsen. Du skal reklamere i "rimelig tid" efter du har opdaget manglen/fejlen. Holbæk 3D Print vil dække returneringsomkostninger i et rimeligt omfang.
+Der gives 2 års reklamationsret i henhold til købeloven. Vores reklamationsret gælder for fejl i materiale og/eller fabrikation. Du kan få ombyttet, pengene retur eller afslag i prisen, afhængig af den konkrete situation. Reklamationen gælder ikke fejl eller skader begået ved forkert håndtering af produktet. Du skal reklamere i "rimelig tid" efter du har opdaget manglen/fejlen. Kunden skal selv dække returneringsomkostninger.
+
+**Når det kommer til 3D-printet produkter, er det vigtigt at være opmærksom på, at der kan opstå mindre unøjagtigheder og artefakter på overfladen. Vær opmærksom på, at jeg ikke påtager mig ansvar for de specifikke mål, funktioner eller pasform af modellen, da de er baseret på kundens egne filer eller filer hentet fra eksterne kilder som Thingiverse, Thangs eller lignende hjemmesider.**    
 
 ## Fortrydelsesret
 

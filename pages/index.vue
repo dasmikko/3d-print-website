@@ -5,7 +5,7 @@
 <template>
   <section class="leading" style="background-image: url('./hero.jpg')">
     <div class="leading-bg">
-      <h1>Din lokale 3D print service</h1>
+      <h1>Dit lokale 3D-print service</h1>
       <p class="subtitle">Hurtig og billig 3D print til dit projekt, drone, pynt eller hvad ellers kan finde på</p>
       <NuxtLink role="button" class="button" to="/faa-et-tilbud">Få et uforpligtende tilbud!</NuxtLink>
     </div>

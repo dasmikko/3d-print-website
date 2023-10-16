@@ -5,20 +5,14 @@
         <span>Holbæk 3D Print.dk</span>
       </NuxtLink>
       <div class="links desktop">
-        <NuxtLink to="/om-mig">Om mig</NuxtLink>
-        <NuxtLink to="/inspiration">Inspiration</NuxtLink>
-        <NuxtLink to="/faq">FAQ</NuxtLink>
-        <NuxtLink to="/faa-et-tilbud" class="cta">Få et tilbud</NuxtLink>
+        <NuxtLink v-for="link in links" :to="link.path" :class="link?.class">{{ link.name }}</NuxtLink>
       </div>
       <div class="links mobile">
         <Menu2Icon @click="toggleMenu"/>
       </div>
     </div>
     <div class="mobile-links" v-if="showMenu" key="mobile-links">
-      <NuxtLink to="/om-mig" @click="toggleMenu">Om mig</NuxtLink>
-      <NuxtLink to="/inspiration">Inspiration</NuxtLink>
-      <NuxtLink to="/faq" @click="toggleMenu">FAQ</NuxtLink>
-      <NuxtLink to="/faa-et-tilbud" @click="toggleMenu" class="cta">Få et tilbud</NuxtLink>
+      <NuxtLink v-for="link in links" :to="link.path" :class="link?.class">{{ link.name }}</NuxtLink>
     </div>
 
 
@@ -30,10 +24,36 @@ import { Menu2Icon } from 'vue-tabler-icons'
 
 
 const showMenu = ref(false)
+const route = useRoute()
 
 const toggleMenu = () => {
   showMenu.value = !showMenu.value
 }
+
+const links = [
+  {
+    name: 'Om mig',
+    path: '/om-mig'
+  },
+  {
+    name: 'Inspiration',
+    path: '/inspiration'
+  },
+  {
+    name: 'FAQ',
+    path: '/faq'
+  },
+  {
+    name: 'Få et tilbud',
+    path: '/faa-et-tilbud',
+    class: 'cta'
+  }
+]
+
+watch(() => route.path, () => {
+  showMenu.value = false
+})
+
 </script>
 
 <style lang="scss" scoped>
@@ -45,7 +65,7 @@ const toggleMenu = () => {
     font-family: 'Bebas Neue', sans-serif;
 
     &:hover {
-      @apply   text-amber-300;
+      @apply  text-amber-300;
     }
 
     span {
@@ -57,11 +77,11 @@ const toggleMenu = () => {
     @apply flex gap-8 items-center font-bold;
 
     &.desktop {
-      @apply hidden sm:flex;
+      @apply hidden md:flex;
     }
 
     &.mobile {
-      @apply flex sm:hidden;
+      @apply flex md:hidden;
     }
 
     a {
