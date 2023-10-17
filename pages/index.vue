@@ -35,6 +35,7 @@
   .leading {
     @apply
       p-0
+      bg-cover
       bg-center
       bg-no-repeat
       bg-gradient-to-r from-cyan-500 to-blue-500;
