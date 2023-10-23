@@ -1,18 +1,36 @@
 <template>
   <section class="text-content">
     <h2>Eksempler på 3D print</h2>
-    <div class="examples">
+    <div class="examples photoswipe">
       <div class="example">
-        <img src="/3dprints/pikachu-purple-pla.jpg" alt="Sød lille Pikachu i Glossy Purple PLA">
+        <a
+            class="photoswipe__link"
+            data-pswp-width="1350"
+            data-pswp-height="930"
+            href="/3dprints/pikachu-purple-pla.jpg">
+          <img src="/3dprints/pikachu-purple-pla.jpg" alt="Sød lille Pikachu i Glossy Purple PLA">
+        </a>
         <p>Sød lille Pikachu i Glossy Purple PLA</p>
       </div>
       <div class="example">
-        <img src="/3dprints/raspberry-pi-case.jpg" alt="Case til Raspberry Pi 4 i rød PLA-ST">
+        <a
+            class="photoswipe__link"
+            data-pswp-width="1350"
+            data-pswp-height="930"
+            href="/3dprints/raspberry-pi-case.jpg">
+            <img src="/3dprints/raspberry-pi-case.jpg" alt="Case til Raspberry Pi 4 i rød PLA-ST">
+          </a>
         <p>Case til Raspberry Pi 4 i rød PLA-ST</p>
       </div>
 
       <div class="example">
-        <img src="/3dprints/reservedel-taske.jpg" alt="Ny taskestrop clips efter den originale knak Glossy Purple PLA">
+        <a
+            class="photoswipe__link"
+            data-pswp-width="1350"
+            data-pswp-height="930"
+            href="/3dprints/reservedel-taske.jpg">
+          <img src="/3dprints/reservedel-taske.jpg" alt="Ny taskestrop clips efter den originale knak Glossy Purple PLA">
+        </a>
         <p>Ny taskestrop clips efter den originale knak Glossy Purple PLA</p>
       </div>
     </div>
