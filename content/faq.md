@@ -4,7 +4,7 @@
 Du finder eller laver den model du vil have printet, [Skriver en mail til mig, inde på denne side](/faa-et-tilbud), og så vil jeg hurtigst muligt udarbejde et tilbud til dig. Hvis du så godkender tilbuddet, vil jeg sende dig en faktura, og så snart den er betalt vil jeg gå i gang med at printe din model.
 
 ## Hvad koster 3D print?
-Prisen på det du vil have printet afhænger af størrelse og hvor meget hvor infill du vil have i printet.
+Prisen på det du vil have printet, afhænger af størrelse og hvor meget hvor infill du vil have i printet.
 
 Når man printer en 3D model, så printer man dem sjældent solide, da det vil tage væsentlig længere tid, og bruge for meget filament. Selve printet bliver oftest heller ikke stærkere ved mere end 50% infill.
 
