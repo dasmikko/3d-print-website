@@ -3,6 +3,7 @@
     <div class="flex justify-between items-center h-20 px-4">
       <NuxtLink to="/" class="logo">
         <span>Holbæk 3D Print.dk</span>
+        <img src="/logo.svg" alt="Logo" class="h-16 transform rotate-12">
       </NuxtLink>
       <div class="links desktop">
         <NuxtLink v-for="link in links" :to="link.path" :class="link?.class">{{ link.name }}</NuxtLink>
