@@ -13,10 +13,6 @@ Email: dasmikko@gmail.com
 
 Hos Holbæk 3D Print er alle priserne i danske kroner og angivet inkl. moms og afgifter. Vi forbeholder os ret til fra dag til dag at ændre i priserne uden forudgående samtykke. Der tages forbehold for udsolgte varer.
 
-## Betaling
-
-Holbæk 3D Print modtager betaling med MobilePay. Betalingen vil først blive trukket på din konto, når varen afsendes eller ved afhæntning. Alle beløb er i DKK. Danske kroner.
-
 ## Levering
 
 Vi sender til hele Danmark. Fragtpriser fra 35 kr. Varer vil blive leveret på leveringsadressen, der angives ved bestillingen.

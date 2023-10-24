@@ -1,19 +1,19 @@
 # FAQ (Ofte stillede spørgsmål)
 
 ## Hvordan bestiller jeg et 3D print?
-Du finder eller laver den model du vil have printet, [udfylder formularen på denne side](/faa-et-tilbud), og så vil jeg hurtigst muligt udarbejde et tilbud til dig. Hvis du så godkender tilbuddet, vil jeg sende dig en faktura, og så snart den er betalt vil jeg gå i gang med at printe din model.
+Du finder eller laver den model du vil have printet, [Skriver en mail til mig, inde på denne side](/faa-et-tilbud), og så vil jeg hurtigst muligt udarbejde et tilbud til dig. Hvis du så godkender tilbuddet, vil jeg sende dig en faktura, og så snart den er betalt vil jeg gå i gang med at printe din model.
 
 ## Hvad koster 3D print?
 Prisen på det du vil have printet afhænger af størrelse og hvor meget hvor infill du vil have i printet.
 
 Når man printer en 3D model, så printer man dem sjældent solide, da det vil tage væsentlig længere tid, og bruge for meget filament. Selve printet bliver oftest heller ikke stærkere ved mere end 50% infill.
 
-Jeg har en minimums pris på **20kr**.
+Jeg har en minimums pris på **30kr**.
 
 Hvis det er noget småt der skal printets, er det muligt at printe flere på samme tid, og derved komme op på minimum prisen.
 
 ## Hvor stort må mit print være?
-Dit print må maksimalt være 18x18x18cm.
+Dit print må maksimalt være 20x20x20cm.
 
 ## Hvor meget infill skal jeg vælge?
 Det afhænger af hvad du skal have printet, og hvilken funktion printet har. I mange tilfælde er 15-20% nok, så man stadig får et stærkt print, men samtidigt sparer på filament. Figurer og pynte ting, er det ofte nok med 10% infill, ellers er det en god tommelfinger regel at vælge 15-20% infill.

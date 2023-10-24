@@ -1,10 +1,10 @@
 <template>
   <div class="footer">
     <div class="footer-inner">
-      <div class="justify-center">
-        <h4>Holbæk 3D Print.dk</h4>
-        <p>Lokal, personlig og billig 3D print</p>
-        <img src="/logo.svg" alt="Logo" class="h-28 transform rotate-12">
+      <div class="items-start">
+        <h4>Holbæk 3D Print</h4>
+        <p>Lokal, personlig og billig 3D print.</p>
+        <img src="/logo-noinfill.svg" alt="Logo" class="h-28 transform rotate-12">
       </div>
       <div>
         <h5>Links</h5>
