@@ -59,7 +59,7 @@ watch(() => route.path, () => {
 
 <style lang="scss" scoped>
 .navbar {
-  @apply bg-opacity-50 bg-slate-700 text-white flex flex-col justify-center fixed w-full backdrop-filter backdrop-blur-lg;
+  @apply bg-opacity-50 bg-slate-700 text-white flex flex-col justify-center fixed w-full backdrop-filter backdrop-blur-lg border-b-2 border-b-slate-600 z-50;
 
   .logo {
     @apply flex gap-4 text-4xl text-white no-underline transition;
