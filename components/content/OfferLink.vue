@@ -14,7 +14,11 @@ Filament (PLA? Farve?):
 
 Link til model:
 
-Infill: `
+Infill:
+
+Sendes eller afhentes?:
+
+Andre bemærkninger: `
 
 
 const linkHref = computed(() => {

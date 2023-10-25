@@ -17,19 +17,19 @@
       <div>
         <h5>Social</h5>
         <ul>
-          <li><a href="#">Facebook</a></li>
+          <li><BrandFacebookIcon/> <a href="https://www.facebook.com/profile.php?id=61552288271021">Facebook</a></li>
         </ul>
       </div>
       <div>
         <h5>Lokation</h5>
         <ul>
-          <li>Baggesens Have 30<br>4300 Holbæk</li>
+          <li><HomeIcon/> Baggesens Have 30<br>4300 Holbæk</li>
         </ul>
       </div>
       <div>
         <h5>Kontakt</h5>
         <ul>
-          <li><a href="mailto:dasmikko@gmail.com">dasmikko@gmail.com</a></li>
+          <li><MailIcon/> <a href="mailto:dasmikko@gmail.com">dasmikko@gmail.com</a></li>
         </ul>
       </div>
     </div>
@@ -37,7 +37,7 @@
 </template>
 
 <script setup>
-
+import { MailIcon, HomeIcon, BrandFacebookIcon } from 'vue-tabler-icons'
 </script>
 
 <style scoped lang="scss">
@@ -69,7 +69,7 @@
           @apply flex flex-col gap-4;
 
           li {
-            @apply text-base;
+            @apply flex gap-2 items-center text-base;
           }
         }
       }

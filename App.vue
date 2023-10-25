@@ -67,8 +67,16 @@ a {
   @apply underline text-amber-400;
 }
 
-p {
+p, pre, ul, ol {
   @apply mb-4;
+}
+
+pre {
+  @apply bg-gray-900 text-white p-4 rounded-xl;
+}
+
+ul {
+  @apply list-disc list-inside;
 }
 
 
