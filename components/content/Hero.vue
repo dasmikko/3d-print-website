@@ -15,17 +15,18 @@
 <style scoped lang="scss">
 .leading {
   @apply
-  p-0
-  bg-center
-  bg-no-repeat
-  bg-gradient-to-r from-cyan-500 to-blue-500;
+    p-0
+    bg-cover
+    bg-center
+    bg-no-repeat
+    bg-gradient-to-r from-cyan-500 to-blue-500;
 
   .leading-bg {
     @apply
-    flex flex-col gap-8 justify-center items-center
-    bg-gray-900 bg-opacity-50
-    h-[calc(100vh-5rem)]
-    px-8 md:px-0;
+      flex flex-col gap-8 justify-center items-center
+      bg-gray-900 bg-opacity-50
+      h-[calc(100vh-5rem)]
+      px-8 md:px-0;
   }
 
   h1 {
