@@ -24,7 +24,7 @@ En sød lav polygon udgave af Bulbasaur, lige til at sætte på hylden. OBS: Fin
 Et kreativt bogmærke formet som en haj. Til den som ikke gider de kedelige bogmærker!
 ::
 
-::InspirationImage{title="Nintendo Switch Pro Controller mount" link="https://www.thingiverse.com/thing:763622" src="https://cdn.thingiverse.com/assets/85/c0/74/ce/2c/2abeb4ea-a524-43d1-9b8e-f22b058182bb.jpg" author="SilkyChicken"}
+::InspirationImage{title="Nintendo Switch Pro Controller mount" link="https://www.thingiverse.com/thing:2973527" src="https://cdn.thingiverse.com/assets/85/c0/74/ce/2c/2abeb4ea-a524-43d1-9b8e-f22b058182bb.jpg" author="SilkyChicken"}
 Smart holder til din Nintendo Switch Pro Controller. Slut med at bruge de små joycons, eller andre tredjeparts joycons. Brug din Pro Controller i stedet!
 ::
 

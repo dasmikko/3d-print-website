@@ -15,11 +15,27 @@ Hvis det er noget småt der skal printets, er det muligt at printe flere på sam
 ## Hvor stort må mit print være?
 Dit print må maksimalt være 20x20x20cm.
 
+## Hvilke farver kan jeg vælge? 
+Lige nu tilbyder jeg følgende farver i PLA:
+- Hvid
+- Sort
+- Gul
+- Rød
+- Silky lilla
+- Silky grøn
+
+_**OBS: Silky filament er et specielt filament, som giver en flot overflade, og en flot glans. Det er dog ikke så stærkt som almindeligt PLA.**_
+
+I PETG tilbyder jeg følgende farver:
+- Gennemsigtig blå
+
+**Billeder af farverne kommer snarest!**
+
 ## Hvor meget infill skal jeg vælge?
 Det afhænger af hvad du skal have printet, og hvilken funktion printet har. I mange tilfælde er 15-20% nok, så man stadig får et stærkt print, men samtidigt sparer på filament. Figurer og pynte ting, er det ofte nok med 10% infill, ellers er det en god tommelfinger regel at vælge 15-20% infill.
 
 ## Hvilken type filament skal jeg vælge?
-I de fleste tilfælde er almindelig **PLA** fint, og vil give flotte resultater. Skal du bruge noget som er mere modstandsdygtigt skal du vælge **PLA-ST**, da det er et stærkere materiale.
+I de fleste tilfælde er almindelig **PLA** fint, og vil give flotte resultater. Jeg benytter dog en PLA type som er modstandsdygtigt, som hedder **PLA-ST**, som giver super gode print.
 
 Hvis du skal printe noget skal kunne tåle varme, skal du vælge **PETG**. Det er et stærkt materiale, som kan tåle varme op til 70 grader, uden at det bliver blødt.
 

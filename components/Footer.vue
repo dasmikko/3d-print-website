@@ -11,7 +11,6 @@
         <ul>
           <li><NuxtLink to="/om-mig">Om mig</NuxtLink></li>
           <li><NuxtLink to="/faq">FAQ</NuxtLink></li>
-          <li><NuxtLink to="/handelsbetingelser">Handelsbetingelser</NuxtLink></li>
         </ul>
       </div>
       <div>

@@ -41,6 +41,10 @@ const links = [
     path: '/inspiration'
   },
   {
+    name: 'Lithophane',
+    path: '/lithophane'
+  },
+  {
     name: 'FAQ',
     path: '/faq'
   },
