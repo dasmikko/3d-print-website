@@ -1,12 +1,17 @@
 # Om mig
+<img src="/me.jpg" class="w-60 float-right ml-4">
 
-Mit navn er Mikkel Holm Jensen, er 30-år ung, og har en baggrund med IT, og har haft en kæmpe interesse for 3D-print i mange år.
+Mit navn er Mikkel Holm Jensen, er 30-år ung, gift, og har en baggrund med IT. Arbejder til daglig som IT administrator og udvikler, og bruger min fritid på at designe, 3D printe og diverse udviklingsprojekter.
+
+Jeg har haft en kæmpe interesse for 3D-print i mange år, og har fulgt med siden det kom frem.
 
 ## Hvorfor?
 
-Grunden til jeg startede Holbæk 3D Print.dk, at jeg gerne vil give alle mulighed for at udnytte det smarte ved 3D print. Tit har man et eller andet i plastik som er gået i stykker, og oftest er der nogen som har designet en 3D model til at løse dette. 
+Grunden til jeg startede Holbæk 3D Print, var at jeg gerne vil give alle muligheden for at udnytte det smarte ved 3D print. 
 
-Det kan også være man har brug for noget som er special designet til specielle behov.
+Tit har man et eller andet i plastik som er gået i stykker, og oftest er der nogen som har designet en 3D model til at løse dette.
+
+Jeg har selv oplevet at stroppen til min rygsæk gik i stykker, og efter et forsøg på at lime den, var den bedste løsning at printe en ny.
 
 ## Udstyr
 

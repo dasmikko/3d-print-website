@@ -18,8 +18,6 @@ const lightbox = new PhotoSwipeLightbox({
 onMounted(() => {
   // initialize lightbox
   lightbox.init();
-
-  console.log('Lightbox initialized')
 });
 </script>
 

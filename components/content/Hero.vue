@@ -2,7 +2,8 @@
   <section class="leading" style="background-image: url('./hero.jpg')">
     <div class="leading-bg">
       <h1>Din lokale 3D-print service</h1>
-      <p class="subtitle">Hurtig og billig 3D print til dit projekt, drone, pynt eller hvad ellers kan finde på</p>
+      <p class="subtitle">Hurtig og billig 3D print til dit projekt, drone, bil, pynt, osv...</p>
+      <p class="subtitle">Det er kun din fantasi der sætter grænsen!</p>
       <NuxtLink role="button" class="button" to="/faa-et-tilbud">Få et uforpligtende tilbud!</NuxtLink>
     </div>
   </section>
@@ -23,7 +24,7 @@
 
   .leading-bg {
     @apply
-      flex flex-col gap-8 justify-center items-center
+      flex flex-col gap-4 justify-center items-center
       bg-gray-900 bg-opacity-50
       h-[calc(100vh-5rem)]
       px-8 md:px-0;

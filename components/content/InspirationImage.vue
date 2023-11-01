@@ -1,6 +1,6 @@
 <template>
   <div class="image flex-1">
-    <a :href="link" target="_blank"><h2>{{title}}</h2></a>
+    <a :href="link" target="_blank"><h3>{{title}}</h3></a>
     <a :href="link" target="_blank">
       <div :style="imageStyle" class="w-full md:w-80 mb-3 aspect-video bg-cover rounded bg-center"></div>
     </a>
