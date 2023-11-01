@@ -6,7 +6,7 @@ Du finder eller laver den model du vil have printet, [skriver en mail til mig, i
 ## Hvad koster 3D print?
 Prisen på det du vil have printet, afhænger af størrelse og hvor meget hvor infill du vil have i printet.
 
-Når man printer en 3D model, så printer man dem sjældent solide, da det vil tage væsentlig længere tid, og bruge for meget filament. Selve printet bliver oftest heller ikke stærkere ved mere end 50% infill.
+Når man printer en 3D model, så printer man dem sjældent solide, da det vil tage væsentlig længere tid, og bruge meget filament. Selve printet bliver oftest heller ikke stærkere ved mere end 50% infill.
 
 Jeg har en minimums pris på **30kr**.
 
@@ -37,7 +37,7 @@ Det afhænger af hvad du skal have printet, og hvilken funktion printet har. I m
 ## Hvilken type filament skal jeg vælge?
 I de fleste tilfælde er almindelig **PLA** fint, og vil give flotte resultater. Jeg benytter dog en PLA type som er modstandsdygtigt, som hedder **PLA-ST**, som giver super gode print.
 
-Hvis du skal printe noget skal kunne tåle varme, skal du vælge **PETG**. Det er et stærkt materiale, som kan tåle varme op til 70 grader, uden at det bliver blødt.
+Hvis du skal printe noget skal kunne tåle varme, være mere UV-resistent skal du vælge **PETG**. Det er et stærkt, semi-fleksibelt materiale som kan tåle varme op til 70 grader, uden at det bliver blødt.
 
 ## Er der noget efterbehandling af printet?
 Visse print er nødsaget til at bruge støtte materiale, som skal fjernes efter printet er færdigt. Det sikre at frithængende lag bliver printet korrekt. Jeg fjerner det selvfølgelig inden jeg sender eller du afhenter det.
