@@ -36,7 +36,7 @@ Træt af at dine USB kabler altid skal vikles ind? Også mig, og med denne smart
 Er du den store gamer, har en SKÅDIS hulplade fra IKEA, og mangler en smart opbevaringsmåde til alle dine mange controllere? Med dette print, kan du hænge alle dine controller på en IKEA SKÅDIS plade!
 ::
 
-::InspirationImage{ title="Hætte til Ruko nøge" link="https://www.thingiverse.com/thing:6128432" src="https://cdn.thingiverse.com/assets/6b/dd/93/b7/22/large_display_7a51fce2-5dc0-436b-8bdf-3bddf1208076.jpg" author="Mig"}
+::InspirationImage{ title="Hætte til Ruko nøgle" link="https://www.thingiverse.com/thing:6128432" src="https://cdn.thingiverse.com/assets/6b/dd/93/b7/22/large_display_7a51fce2-5dc0-436b-8bdf-3bddf1208076.jpg" author="Mig"}
 Har flere ens Ruko nøgler, og ikke kan se hvilken der passer til hvilken dør? Med denne smarte hætte, kan du nemt se hvilken nøgle der passer til hvilken dør! Det er endda mit eget design.
 ::
 </div>
@@ -57,6 +57,6 @@ Her er billedet som er brugt til lithophane printet.
 ::PhotoSwipeImage{src="/3dprints/lithophane-original.jpg" width="530" height="694" alt="Billede som er brugt til lithophane billede"}
 ::
 
-<a href="/faa-et-tilbud" class="button">Bestil lithophane</a>
+<a href="/faa-et-tilbud" class="button text-xl inline-block mt-4 mb-4">Bestil lithophane</a>
 
 Husk at vedhæfte billedet som du vil bruge til lithophane, og skriv gerne hvilken størrelse du ønsker.
