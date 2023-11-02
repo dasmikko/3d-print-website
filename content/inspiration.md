@@ -47,15 +47,34 @@ Lithophane billeder er en speciel type billeder, som kan printes på en 3D print
 
 De kan laves i forskellige størrelser, og kan også laves som en nøglering eller et vedhæng.
 
+
+
+<div class="flex gap-4">
+
+<div class="flex-1">
+
 Her er et eksempel på et lithophane billede som er 10cm høj, med et motiv af vores hund Milo.
 
 ::PhotoSwipeImage{src="/3dprints/lithophane.jpg" width="1350" height="894" alt="Lithophane billede"}
 ::
 
+</div>
+
+<div class="flex-1">
+
 Her er billedet som er brugt til lithophane printet.
 
 ::PhotoSwipeImage{src="/3dprints/lithophane-original.jpg" width="530" height="694" alt="Billede som er brugt til lithophane billede"}
 ::
+</div>
+
+</div>
+
+### Priser
+
+Små (fra 10x10cm): **60kr**  
+Mellem (fra 15x15cm): **80kr**  
+Store (fra 20x20cm til 23x23cm maks): **100kr**  
 
 <a href="/faa-et-tilbud" class="button text-xl inline-block mt-4 mb-4">Bestil lithophane</a>
 
