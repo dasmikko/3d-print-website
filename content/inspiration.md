@@ -73,8 +73,10 @@ Her er billedet som er brugt til lithophane printet.
 ### Priser
 
 Små (fra 10x10cm): **60kr**  
-Mellem (fra 15x15cm): **80kr**  
-Store (fra 20x20cm til 23x23cm maks): **100kr**  
+Mellem (fra 15x15cm): **90kr**  
+Store (fra 20x20cm til 23x23cm maks): **130kr**  
+
+Du får selvfølgelig en forhåndsvisning af det, inden du betaler.
 
 <a href="/faa-et-tilbud" class="button text-xl inline-block mt-4 mb-4">Bestil lithophane</a>
 
