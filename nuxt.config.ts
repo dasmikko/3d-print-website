@@ -18,6 +18,6 @@ export default defineNuxtConfig({
   },
   gtag: {
     id: 'G-VC4KLM1PJT',
-    initialConsent: true,
+    initialConsent: false,
   }
 })
