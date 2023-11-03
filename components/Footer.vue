@@ -12,6 +12,7 @@
           <li><NuxtLink to="/om-mig">Om mig</NuxtLink></li>
           <li><NuxtLink to="/inspiration">Inspiration</NuxtLink></li>
           <li><NuxtLink to="/faq">FAQ</NuxtLink></li>
+          <li><NuxtLink to="/privatliv">Privatliv</NuxtLink></li>
         </ul>
       </div>
       <div>

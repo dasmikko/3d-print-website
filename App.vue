@@ -1,9 +1,37 @@
 <template>
   <Navbar />
 
+  {{ cookieStatus }}
+
   <div class="page-content">
     <NuxtPage/>
   </div>
+
+  <vue-cookie-accept-decline
+      :debug="false"
+      :disableDecline="false"
+      :showPostponeButton="false"
+      @status="cookieStatus"
+      @clicked-accept="cookieClickedAccept"
+      @clicked-decline="cookieClickedDecline"
+      elementId="myPanel1"
+      position="bottom-left"
+      ref="myPanel1"
+      transitionName="slideFromBottom"
+      type="floating"
+  >
+    <!-- Optional -->
+    <template #message>
+      <p>Vi bruger cookies til at sikre den bedste mulige oplevelse.</p>
+      <nuxt-link to="/privatliv">Læs mere her...</nuxt-link>
+    </template>
+
+    <!-- Optional -->
+    <template #declineContent>Nej tak!</template>
+
+    <!-- Optional -->
+    <template #acceptContent>Helt ok!</template>
+  </vue-cookie-accept-decline>
 
   <Footer />
 </template>
@@ -11,13 +39,36 @@
 <script setup>
 import Navbar from './components/Navbar.vue'
 import Footer from './components/Footer.vue'
+import VueCookieAcceptDecline from 'vue-cookie-accept-decline';
+import 'vue-cookie-accept-decline/dist/vue-cookie-accept-decline.css';
 import 'photoswipe/style.css'
+import { initConsentRef } from '~/utils/consent.js';
+import {onMounted} from 'vue';
+
+const { gtag, grantConsent, revokeConsent } = useGtag()
 
 useHead({
   link: [
     {href: 'https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comfortaa:wght@700&display=swap',
       rel: 'stylesheet'}
   ]
+})
+
+const myPanel1 = ref(null)
+const cookieStatus = ref(null)
+
+const cookieClickedAccept = () => {
+  console.log('cookieClickedAccept')
+  grantConsent()
+}
+
+const cookieClickedDecline = () => {
+  console.log('cookieClickedDecline')
+  revokeConsent()
+}
+
+onMounted(() => {
+  initConsentRef(myPanel1.value)
 })
 </script>
 
