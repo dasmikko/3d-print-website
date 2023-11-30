@@ -11,13 +11,8 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content',
     '@formkit/auto-animate/nuxt',
-    'nuxt-gtag'
   ],
   content: {
     // ... options
   },
-  gtag: {
-    id: 'G-VC4KLM1PJT',
-    initialConsent: false,
-  }
 })
