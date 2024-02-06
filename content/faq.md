@@ -23,7 +23,7 @@ Lige nu tilbyder jeg følgende farver i PLA:
 - Rød
 - Flaming Orange
 - Hot Pink
-- Flourencant grøn
+- Fluorescent grøn
 - Silky lilla
 - Silky grøn
 - Silky guld
