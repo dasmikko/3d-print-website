@@ -21,13 +21,22 @@ Lige nu tilbyder jeg følgende farver i PLA:
 - Sort
 - Gul
 - Rød
+- Flaming Orange
+- Hot Pink
+- Flourencant grøn
 - Silky lilla
 - Silky grøn
+- Silky guld
 
 _**OBS: Silky filament er et specielt filament, som giver en flot overflade, og en flot glans. Det er dog ikke så stærkt som almindeligt PLA.**_
 
 I PETG tilbyder jeg følgende farver:
 - Gennemsigtig blå
+
+I TPU tilbyder jeg:
+- Sort
+
+Jeg har pt. kun en hårdhed som er 72D, som er relativ hård.
 
 **Billeder af farverne kommer snarest!**
 
