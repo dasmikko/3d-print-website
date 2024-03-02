@@ -11,6 +11,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content',
     '@formkit/auto-animate/nuxt',
+    '@nuxtjs/eslint-module',
   ],
   content: {
     // ... options
