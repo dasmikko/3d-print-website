@@ -6,7 +6,10 @@
     <div class="links">
       <a href="#">Om mig</a>
       <a href="#">FAQ</a>
-      <a href="#" class="cta">Få et tilbud</a>
+      <a
+        href="#"
+        class="cta"
+      >Få et tilbud</a>
     </div>
   </div>
 </template>

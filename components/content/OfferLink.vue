@@ -1,5 +1,11 @@
 <template>
-  <p><a class="button inline-block" :href="linkHref" target="_blank">Send mail</a></p>
+  <p>
+    <a
+      class="button inline-block"
+      :href="linkHref"
+      target="_blank"
+    >Send mail</a>
+  </p>
 </template>
 
 <script setup>

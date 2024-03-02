@@ -2,7 +2,7 @@
   <Navbar />
 
   <div class="page-content">
-    <NuxtPage/>
+    <NuxtPage />
   </div>
 
   <Footer />

@@ -3,10 +3,15 @@
 </script>
 
 <template>
-  <section class="leading" style="background-image: url('./hero.jpg')">
+  <section
+    class="leading"
+    style="background-image: url('./hero.jpg')"
+  >
     <div class="leading-bg">
       <h1>Din lokale 3D print service</h1>
-      <p class="subtitle">Hurtig og billig 3D print til dit projekt, drone, pynt eller hvad ellers kan finde på</p>
+      <p class="subtitle">
+        Hurtig og billig 3D print til dit projekt, drone, pynt eller hvad ellers kan finde på
+      </p>
       <button>Få et uforpligtende tilbud!</button>
     </div>
   </section>
@@ -15,16 +20,25 @@
     <h2>Eksempler på 3D print</h2>
     <div class="examples">
       <div class="example">
-        <img src="https://placehold.co/600x400/png" alt="3D print af en drone">
+        <img
+          src="https://placehold.co/600x400/png"
+          alt="3D print af en drone"
+        >
         <p>3D print til drone</p>
       </div>
       <div class="example">
-        <img src="https://placehold.co/600x400/png" alt="3D print af en drone">
+        <img
+          src="https://placehold.co/600x400/png"
+          alt="3D print af en drone"
+        >
         <p>Sød lille figur i skinnede lilla PLA filament</p>
       </div>
 
       <div class="example">
-        <img src="https://placehold.co/600x400/png" alt="3D print af en drone">
+        <img
+          src="https://placehold.co/600x400/png"
+          alt="3D print af en drone"
+        >
         <p>Sød lille figur i skinnede lilla PLA filament</p>
       </div>
     </div>

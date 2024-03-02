@@ -1,10 +1,23 @@
 <template>
-  <section class="leading" style="background-image: url('./hero.jpg')">
+  <section
+    class="leading"
+    style="background-image: url('./hero.jpg')"
+  >
     <div class="leading-bg">
       <h1>Din lokale 3D-print service</h1>
-      <p class="subtitle">Hurtig og billig 3D print til dit projekt, drone, bil, pynt, osv...</p>
-      <p class="subtitle">Det er kun din fantasi der sætter grænsen!</p>
-      <NuxtLink role="button" class="button" to="/faa-et-tilbud">Få et uforpligtende tilbud!</NuxtLink>
+      <p class="subtitle">
+        Hurtig og billig 3D print til dit projekt, drone, bil, pynt, osv...
+      </p>
+      <p class="subtitle">
+        Det er kun din fantasi der sætter grænsen!
+      </p>
+      <NuxtLink
+        role="button"
+        class="button"
+        to="/faa-et-tilbud"
+      >
+        Få et uforpligtende tilbud!
+      </NuxtLink>
     </div>
   </section>
 </template>

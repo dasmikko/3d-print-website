@@ -4,32 +4,48 @@
       <div class="items-start">
         <h4>Holbæk 3D Print</h4>
         <p>Lokal, personlig og billig 3D print.</p>
-        <img src="/logo-noinfill.svg" alt="Logo" class="h-28 transform rotate-12">
+        <img
+          src="/logo-noinfill.svg"
+          alt="Logo"
+          class="h-28 transform rotate-12"
+        >
       </div>
       <div>
         <h5>Links</h5>
         <ul>
-          <li><NuxtLink to="/om-mig">Om mig</NuxtLink></li>
-          <li><NuxtLink to="/inspiration">Inspiration</NuxtLink></li>
-          <li><NuxtLink to="/faq">FAQ</NuxtLink></li>
+          <li>
+            <NuxtLink to="/om-mig">
+              Om mig
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink to="/inspiration">
+              Inspiration
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink to="/faq">
+              FAQ
+            </NuxtLink>
+          </li>
         </ul>
       </div>
       <div>
         <h5>Social</h5>
         <ul>
-          <li><BrandFacebookIcon/> <a href="https://www.facebook.com/profile.php?id=61552288271021">Facebook</a></li>
+          <li><BrandFacebookIcon /> <a href="https://www.facebook.com/profile.php?id=61552288271021">Facebook</a></li>
         </ul>
       </div>
       <div>
         <h5>Lokation</h5>
         <ul>
-          <li><HomeIcon/> Baggesens Have 30<br>4300 Holbæk</li>
+          <li><HomeIcon /> Baggesens Have 30<br>4300 Holbæk</li>
         </ul>
       </div>
       <div>
         <h5>Kontakt</h5>
         <ul>
-          <li><MailIcon/> <a href="mailto:dasmikko@gmail.com">dasmikko@gmail.com</a></li>
+          <li><MailIcon /> <a href="mailto:dasmikko@gmail.com">dasmikko@gmail.com</a></li>
         </ul>
       </div>
     </div>

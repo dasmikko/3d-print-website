@@ -1,6 +1,6 @@
 <template>
   <h5 :id="id">
-    <slot></slot>
+    <slot />
   </h5>
 </template>
 

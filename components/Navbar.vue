@@ -1,22 +1,43 @@
 <template>
   <div class="navbar">
     <div class="flex justify-between items-center h-20 px-4">
-      <NuxtLink to="/" class="logo">
+      <NuxtLink
+        to="/"
+        class="logo"
+      >
         <span>Holbæk 3D Print</span>
-        <img src="/logo-noinfill.svg" alt="Logo" class="h-16 transform rotate-12">
+        <img
+          src="/logo-noinfill.svg"
+          alt="Logo"
+          class="h-16 transform rotate-12"
+        >
       </NuxtLink>
       <div class="links desktop">
-        <NuxtLink v-for="link in links" :to="link.path" :class="link?.class">{{ link.name }}</NuxtLink>
+        <NuxtLink
+          v-for="link in links"
+          :to="link.path"
+          :class="link?.class"
+        >
+          {{ link.name }}
+        </NuxtLink>
       </div>
       <div class="links mobile">
-        <Menu2Icon @click="toggleMenu"/>
+        <Menu2Icon @click="toggleMenu" />
       </div>
     </div>
-    <div class="mobile-links" v-if="showMenu" key="mobile-links">
-      <NuxtLink v-for="link in links" :to="link.path" :class="link?.class">{{ link.name }}</NuxtLink>
+    <div
+      v-if="showMenu"
+      key="mobile-links"
+      class="mobile-links"
+    >
+      <NuxtLink
+        v-for="link in links"
+        :to="link.path"
+        :class="link?.class"
+      >
+        {{ link.name }}
+      </NuxtLink>
     </div>
-
-
   </div>
 </template>
 

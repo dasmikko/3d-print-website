@@ -1,33 +1,61 @@
 <template>
-  <form action="" class="bg-slate-600 p-8 rounded">
+  <form
+    action=""
+    class="bg-slate-600 p-8 rounded"
+  >
     <div class="field">
       <label for="name">Fulde navn</label>
-      <input type="text" name="name" id="name">
+      <input
+        id="name"
+        type="text"
+        name="name"
+      >
     </div>
 
     <div class="field">
       <label for="email">Email</label>
-      <input type="text" name="email" id="email">
+      <input
+        id="email"
+        type="text"
+        name="email"
+      >
     </div>
 
     <div class="field">
       <label for="phone">Telefon</label>
-      <input type="tel" name="phone" id="phone">
+      <input
+        id="phone"
+        type="tel"
+        name="phone"
+      >
     </div>
 
     <div class="field">
       <label for="model">3D model (.stl, .obj, .zip-fil hvis du har flere filer)</label>
-      <input type="file" name="model" id="model">
+      <input
+        id="model"
+        type="file"
+        name="model"
+      >
     </div>
 
     <div class="field">
       <label for="comment">Kommentar</label>
       <p>Skriv om hvor meget infill du ønsker, hvilken filament og evt. andre ønsker. Hvis du har fundet din model på thingiverse, eller andre sider, er det en god idé at sende et link med.</p>
-      <textarea name="comment" class="h-64" id="comment" ></textarea>
+      <textarea
+        id="comment"
+        name="comment"
+        class="h-64"
+      />
     </div>
 
     <div class="field flex justify-end">
-      <button type="submit" class="button">Send</button>
+      <button
+        type="submit"
+        class="button"
+      >
+        Send
+      </button>
     </div>
   </form>
 </template>

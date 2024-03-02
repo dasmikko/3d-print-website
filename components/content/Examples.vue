@@ -4,44 +4,64 @@
     <div class="examples photoswipe">
       <div class="example">
         <a
-            class="photoswipe__link"
-            data-pswp-width="1350"
-            data-pswp-height="930"
-            href="/3dprints/pikachu-purple-pla.jpg">
-          <img src="/3dprints/pikachu-purple-pla.jpg" alt="Sød lille Pikachu i Glossy Purple PLA">
+          class="photoswipe__link"
+          data-pswp-width="1350"
+          data-pswp-height="930"
+          href="/3dprints/pikachu-purple-pla.jpg"
+        >
+          <img
+            src="/3dprints/pikachu-purple-pla.jpg"
+            alt="Sød lille Pikachu i Glossy Purple PLA"
+          >
 
         </a>
         <p>
           Sød lille Pikachu i Glossy Purple PLA<br>
-          <a href="https://www.thingiverse.com/thing:6231477" target="_blank">Link til model</a>
+          <a
+            href="https://www.thingiverse.com/thing:6231477"
+            target="_blank"
+          >Link til model</a>
         </p>
-
       </div>
       <div class="example">
         <a
-            class="photoswipe__link"
-            data-pswp-width="1350"
-            data-pswp-height="930"
-            href="/3dprints/raspberry-pi-case.jpg">
-            <img src="/3dprints/raspberry-pi-case.jpg" alt="Case til Raspberry Pi 4 i rød PLA-ST">
-          </a>
+          class="photoswipe__link"
+          data-pswp-width="1350"
+          data-pswp-height="930"
+          href="/3dprints/raspberry-pi-case.jpg"
+        >
+          <img
+            src="/3dprints/raspberry-pi-case.jpg"
+            alt="Case til Raspberry Pi 4 i rød PLA-ST"
+          >
+        </a>
         <p>
           Case til Raspberry Pi 4 i rød PLA-ST<br>
-          <a href="https://www.thingiverse.com/thing:4114747" target="_blank">Link til model</a>
+          <a
+            href="https://www.thingiverse.com/thing:4114747"
+            target="_blank"
+          >Link til model</a>
         </p>
       </div>
 
       <div class="example">
         <a
-            class="photoswipe__link"
-            data-pswp-width="1350"
-            data-pswp-height="930"
-            href="/3dprints/reservedel-taske.jpg">
-          <img src="/3dprints/reservedel-taske.jpg" alt="Ny taskestrop clips efter den originale knak Glossy Purple PLA">
+          class="photoswipe__link"
+          data-pswp-width="1350"
+          data-pswp-height="930"
+          href="/3dprints/reservedel-taske.jpg"
+        >
+          <img
+            src="/3dprints/reservedel-taske.jpg"
+            alt="Ny taskestrop clips efter den originale knak Glossy Purple PLA"
+          >
         </a>
         <p>
           Ny taskestrop clips efter den originale knak Glossy Purple PLA<br>
-          <a href="https://www.thingiverse.com/thing:2636310" target="_blank">Link til model</a>
+          <a
+            href="https://www.thingiverse.com/thing:2636310"
+            target="_blank"
+          >Link til model</a>
         </p>
       </div>
     </div>

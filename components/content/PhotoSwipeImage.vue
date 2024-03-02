@@ -4,8 +4,12 @@
       :href="src"
       class="photoswipe__link"
       :data-pswp-width="width"
-      :data-pswp-height="height">
-      <img :src="src" :alt="alt">
+      :data-pswp-height="height"
+    >
+      <img
+        :src="src"
+        :alt="alt"
+      >
     </a>
   </p>
 </template>

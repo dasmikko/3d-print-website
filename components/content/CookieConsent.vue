@@ -1,5 +1,7 @@
 <template>
-<button @click="removeConsent">Tilbagekald cookie samtykke</button>
+  <button @click="removeConsent">
+    Tilbagekald cookie samtykke
+  </button>
 </template>
 
 <script setup>
