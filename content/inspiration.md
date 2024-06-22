@@ -16,24 +16,8 @@ Hvis du mangler inspiration til hvad du kan få printet, så kan du se nogle int
 Benchmark modellen til at teste en 3D printer.
 ::
 
-::InspirationImage{ title="Low Poly Bulbasaur" link="https://www.thingiverse.com/thing:6231486" src="https://cdn.thingiverse.com/assets/e9/fd/48/c6/d6/large_display_630de3c9-50bf-46ce-aa58-4aa462ba4f09.jpg" author="flowalistik"}
-En sød lav polygon udgave af Bulbasaur, lige til at sætte på hylden. OBS: Findes også som Pikachu og Charmander!
-::
-
-::InspirationImage{ title="Haj bogmærke" link="https://www.thingiverse.com/thing:6261415" src="https://cdn.thingiverse.com/assets/f8/1f/06/c2/45/large_display_b879d3f6-57a2-4fb9-913b-8829e3767de8.jpg" author="blecheimer"}
-Et kreativt bogmærke formet som en haj. Til den som ikke gider de kedelige bogmærker!
-::
-
-::InspirationImage{title="Nintendo Switch Pro Controller mount" link="https://www.thingiverse.com/thing:2973527" src="https://cdn.thingiverse.com/assets/85/c0/74/ce/2c/2abeb4ea-a524-43d1-9b8e-f22b058182bb.jpg" author="SilkyChicken"}
-Smart holder til din Nintendo Switch Pro Controller. Slut med at bruge de små joycons, eller andre tredjeparts joycons. Brug din Pro Controller i stedet!
-::
-
-::InspirationImage{ title="USB kabel clip" link="https://www.thingiverse.com/thing:6249277" src="https://cdn.thingiverse.com/assets/b0/9a/bc/66/f2/large_display_9896e1e1-47ca-4c70-ad9d-6b6d01be34a0.jpg" author="DR3D_2023"}
-Træt af at dine USB kabler altid skal vikles ind? Også mig, og med denne smarte model, kan du holde styr på alle dine USB kabler!
-::
-
-::InspirationImage{ title="Universal controller holder til SKÅDIS" link="https://www.thingiverse.com/thing:3470056" src="https://cdn.thingiverse.com/renders/2b/b6/6e/cd/24/78d7be079f0c2406a17c52c294d40b7a_display_large.jpg" author="enykeev"}
-Er du den store gamer, har en SKÅDIS hulplade fra IKEA, og mangler en smart opbevaringsmåde til alle dine mange controllere? Med dette print, kan du hænge alle dine controller på en IKEA SKÅDIS plade!
+::InspirationImage{ title="OTF Fidget kniv" link="https://www.thingiverse.com/thing:6602686" src="https://cdn.thingiverse.com/assets/f3/9e/ca/5f/02/large_display_7c55d106-56b1-4e93-adc4-528b6b872b1a.jpeg" author="uhltimate"}
+En sjov OTF fidget kniv, lige til at lege med. Bare rolig den er ikke skarp! 
 ::
 
 ::InspirationImage{ title="Hætte til Ruko nøgle" link="https://www.thingiverse.com/thing:6128432" src="https://cdn.thingiverse.com/assets/6b/dd/93/b7/22/large_display_7a51fce2-5dc0-436b-8bdf-3bddf1208076.jpg" author="Mig"}
