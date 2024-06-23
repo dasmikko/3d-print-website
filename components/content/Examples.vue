@@ -7,27 +7,6 @@
           class="photoswipe__link"
           data-pswp-width="1350"
           data-pswp-height="930"
-          href="/3dprints/pikachu-purple-pla.jpg"
-        >
-          <img
-            src="/3dprints/pikachu-purple-pla.jpg"
-            alt="Sød lille Pikachu i Glossy Purple PLA"
-          >
-
-        </a>
-        <p>
-          Sød lille Pikachu i Glossy Purple PLA<br>
-          <a
-            href="https://www.thingiverse.com/thing:6231477"
-            target="_blank"
-          >Link til model</a>
-        </p>
-      </div>
-      <div class="example">
-        <a
-          class="photoswipe__link"
-          data-pswp-width="1350"
-          data-pswp-height="930"
           href="/3dprints/raspberry-pi-case.jpg"
         >
           <img
@@ -62,6 +41,25 @@
             href="https://www.thingiverse.com/thing:2636310"
             target="_blank"
           >Link til model</a>
+        </p>
+      </div>
+      <div class="example">
+        <a
+            class="photoswipe__link"
+            data-pswp-width="1350"
+            data-pswp-height="930"
+            href="/3dprints/hundepose-holder.jpg"
+        >
+          <img
+              src="/3dprints/hundepose-holder.jpg"
+              alt="Smart holder til fyldte hundeposer, så du har hænderne fri"
+          >
+        </a>
+        <p>
+          Smart holder til fyldte hundeposer, så du har hænderne fri<br>
+          <a
+              href="/faa-et-tilbud"
+          >Bestil din i dag!</a>
         </p>
       </div>
     </div>
