@@ -2,7 +2,9 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['/assets/css/main.css'],
-
+  nitro: {
+    preset: 'static'
+  },
   postcss: {
     plugins: {
       tailwindcss: {},
@@ -17,12 +19,12 @@ export default defineNuxtConfig({
   ],
 
   content: {
-    documentDriven: true,
   },
-
+  routeRules: {
+    '/': { prerender: true }
+  },
   site: {
     url: 'https://holbaek3dprint.dk',
-    strictNuxtContentPaths: true,
   },
 
   compatibilityDate: '2024-07-04',
