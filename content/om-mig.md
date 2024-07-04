@@ -1,3 +1,9 @@
+---
+loc: /inspiration
+title: 'Om mig'
+description: 'Om mig og Holbæk 3D Print'
+---
+
 # Om mig
 <img src="/me.jpg" class="w-60 float-right ml-4">
 

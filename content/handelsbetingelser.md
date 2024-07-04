@@ -1,3 +1,8 @@
+---
+title: 'Handelsbetingelser'
+description: 'Handelsbetingelser hos Holbæk 3D Print'
+---
+
 # Handelsbetingelser
 
 Handelsbetingelser hos Holbæk 3D Print
@@ -11,7 +16,7 @@ Email: dasmikko@gmail.com
 
 ## Priser
 
-Hos Holbæk 3D Print er alle priserne i danske kroner og angivet inkl. moms og afgifter. Vi forbeholder os ret til fra dag til dag at ændre i priserne uden forudgående samtykke. Der tages forbehold for udsolgte varer.
+Hos Holbæk 3D Print er alle priserne i danske kroner og angivet excl. moms. Vi forbeholder os ret til fra dag til dag at ændre i priserne uden forudgående samtykke. Der tages forbehold for udsolgte varer.
 
 ## Levering
 

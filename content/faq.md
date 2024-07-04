@@ -1,3 +1,9 @@
+---
+loc: /faq
+title: 'FAQ (Ofte stillede spørgsmål)'
+description: 'Mest stillede spørgsmål om 3D print'
+---
+
 # FAQ (Ofte stillede spørgsmål)
 
 ## Hvordan bestiller jeg et 3D print?
