@@ -27,8 +27,6 @@ Filament (PLA? Farve?):
 
 Link til model:
 
-Infill: 
-
 Sendes eller afhentes?:
 
 Andre bemærkninger: 

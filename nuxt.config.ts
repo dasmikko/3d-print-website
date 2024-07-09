@@ -1,6 +1,10 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import Aura from '@primevue/themes/aura';
+
+
 export default defineNuxtConfig({
   devtools: { enabled: true },
+  ssr: false,
   css: ['/assets/css/main.css'],
   nitro: {
     preset: 'static'
@@ -15,7 +19,8 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content',
     '@formkit/auto-animate/nuxt',
-    "@nuxtjs/sitemap"
+    "@nuxtjs/sitemap",
+    '@primevue/nuxt-module'
   ],
 
   content: {
@@ -28,4 +33,11 @@ export default defineNuxtConfig({
   },
 
   compatibilityDate: '2024-07-04',
+  primevue: {
+    options: {
+      theme: {
+        preset: Aura
+      }
+    }
+  }
 })
