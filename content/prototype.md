@@ -15,6 +15,6 @@ Jeg tilbyder nemlig at tegne prototyper, ***(til en fair pris!)*** som kan bruge
 
 Når tegning af modellen så er på plads, og du er tilfreds, så kan jeg printe modellen i 3D, så du har en fysisk model at vise frem. Du får naturligvis også filerne til modellen, hvis de skal bruges selve produktionen af produktet.
 
-Så hvis du er interesseret, eller har spørgsmål, så tøv ikke med at kontakte mig på [tilbud@holbæk3dprint.dk](mailto:tilbud@holbæk3dprint.dk). 
+Så hvis du er interesseret, eller har spørgsmål, så tøv ikke med at kontakte mig på [tilbud@holbaek3dprint.dk](mailto:tilbud@holbaek3dprint.dk). 
 
 Jeg ser frem til at høre fra dig!
