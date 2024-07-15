@@ -13,7 +13,7 @@ Har du en idé til et fantastisk produkt, men mangler at få det tegnet og print
 
 Jeg tilbyder nemlig at tegne prototyper, ***(til en fair pris!)*** som kan bruges til visualiserings processen af dit produkt. Det kan også være du skal vise din idé til en investor, og har brug for en fysisk model, inden de kan tage en beslutning. 
 
-Når tegning af modellen så er på plads, og du er tilfreds, så kan jeg printe modellen i 3D, så du har en fysisk model at vise frem. Du får naturligvis også filerne til modellen, hvis de skal bruges selve produktionen af produktet.
+Når tegning af modellen så er på plads, og du er tilfreds, så kan jeg printe modellen, så du har en fysisk model at vise frem. Du får naturligvis også filerne til modellen, hvis de skal bruges selve produktionen af produktet.
 
 Så hvis du er interesseret, eller har spørgsmål, så tøv ikke med at kontakte mig på [tilbud@holbaek3dprint.dk](mailto:tilbud@holbaek3dprint.dk). 
 
