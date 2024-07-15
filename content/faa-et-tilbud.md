@@ -18,20 +18,4 @@ Tryk på knappen, og der vil blive åbnet til en ny mail med indhold.
 ::OfferLink
 ::
 
-Hvis knappen ikke virker, skal mailen blot indeholde følgende:
-
-```
-Navn:
-
-Filament (PLA? Farve?):
-
-Link til model:
-
-Sendes eller afhentes?:
-
-Andre bemærkninger: 
-```
-
-
-
-Du er også velkommen til at skrive til mig på [dasmikko@gmail.com](mailto:dasmikko@gmail.com).
+Du er også velkommen til at skrive til mig på [tilbud@holbaek3dprint.dk](mailto:tilbud@holbaek3dprint.dk).

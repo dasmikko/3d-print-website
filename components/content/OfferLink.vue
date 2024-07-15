@@ -4,7 +4,7 @@
       class="button inline-block"
       :href="linkHref"
       target="_blank"
-    >Send mail</a>
+    >Bed om tilbud</a>
   </p>
 </template>
 
@@ -14,21 +14,9 @@ import {computed} from 'vue';
 
 
 const mailSubject = 'Ønske om tilbud'
-const mailBody = `Navn:
-
-Filament (PLA? Farve?):
-
-Link til model:
-
-Infill:
-
-Sendes eller afhentes?:
-
-Andre bemærkninger: `
-
 
 const linkHref = computed(() => {
-  return `mailto:dasmikko@gmail.com?subject=${mailSubject}&body=${encodeURIComponent(mailBody)}`
+  return `mailto:tilbud@holbaek3dprint.dk?subject=${mailSubject}`
  })
 </script>
 
