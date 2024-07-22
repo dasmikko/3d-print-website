@@ -7,7 +7,7 @@ description: 'Om mig og Holbæk 3D Print'
 # Om mig
 <img src="/me.jpg" class="w-60 float-right ml-4">
 
-Mit navn er Mikkel Holm Jensen, er 30-år ung, gift, og har en baggrund med IT. Arbejder til daglig som IT administrator og udvikler, og bruger min fritid på at designe, 3D printe og diverse udviklingsprojekter.
+Mit navn er Mikkel Holm Jensen, og har en baggrund med IT. Arbejder til daglig som IT administrator og udvikler, og bruger min fritid på at designe, 3D printe og diverse udviklingsprojekter.
 
 Jeg har haft en kæmpe interesse for 3D-print i mange år, og har fulgt med siden det kom frem.
 
