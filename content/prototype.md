@@ -17,7 +17,7 @@ Når tegning af modellen så er på plads, og du er tilfreds, så kan jeg printe
 
 **OBS: Jeg tilbyder ikke tekniske tegninger. Mine tegninger er også med fokus på 3D print, og ikke til masseproducerings forme.**
 
-Jeg har en start pris på **500kr** uanset for lille modellen er. Prisen kan variere alt efter hvor kompleks modellen er, og hvor meget tid der skal bruges på at tegne den.
+Jeg har en start pris på **500kr** uanset hvor lille modellen er. Prisen kan variere alt efter hvor kompleks modellen er, og hvor meget tid der skal bruges på at tegne den.
 
 Så hvis du er interesseret, eller har spørgsmål, så tøv ikke med at kontakte mig på [tilbud@holbaek3dprint.dk](mailto:tilbud@holbaek3dprint.dk). 
 
