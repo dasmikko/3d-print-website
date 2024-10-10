@@ -33,7 +33,7 @@
       <div>
         <h5>Social</h5>
         <ul>
-          <li><BrandFacebookIcon /> <a href="https://www.facebook.com/profile.php?id=61552288271021">Facebook</a></li>
+          <li><BrandFacebookIcon /> <a href="https://www.facebook.com/holbaek3dprint/" target="_blank">Facebook</a></li>
         </ul>
       </div>
       <div>
