@@ -45,7 +45,11 @@
       <div>
         <h5>Kontakt</h5>
         <ul>
-          <li><MailIcon /> <a href="mailto:dasmikko@gmail.com">dasmikko@gmail.com</a></li>
+          <li><MailIcon /> <a class="underline" href="mailto:dasmikko@gmail.com">dasmikko@gmail.com</a></li>
+          <li><PhoneIcon /> <div class="gap-0">
+            <span class="block">29 93 13 65</span>
+            <span class="italic">(Hverdage: Efter kl 16 / Weekend: 10 - 18)</span>
+          </div></li>
         </ul>
       </div>
     </div>
@@ -53,7 +57,7 @@
 </template>
 
 <script setup>
-import { MailIcon, HomeIcon, BrandFacebookIcon } from 'vue-tabler-icons'
+import { MailIcon, PhoneIcon,  HomeIcon, BrandFacebookIcon } from 'vue-tabler-icons'
 </script>
 
 <style scoped lang="scss">
@@ -63,7 +67,7 @@ import { MailIcon, HomeIcon, BrandFacebookIcon } from 'vue-tabler-icons'
     .footer-inner {
       @apply container mx-auto flex justify-between py-16 px-8 flex-col lg:flex-row;
 
-      div {
+      &>div {
         @apply flex flex-col gap-4;
 
         a {
@@ -85,7 +89,7 @@ import { MailIcon, HomeIcon, BrandFacebookIcon } from 'vue-tabler-icons'
           @apply flex flex-col gap-4;
 
           li {
-            @apply flex gap-2 items-center text-base;
+            @apply flex gap-2 items-start text-base;
           }
         }
       }
