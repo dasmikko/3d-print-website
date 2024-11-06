@@ -15,5 +15,5 @@ Jeg har selv oplevet at stroppen til min rygsæk gik i stykker, og efter et fors
 
 ## Udstyr
 
-Jeg bruger en Creality CR-6 SE printer, Raspberry Pi med OctoPi og kamera, så jeg hele tiden kan overvåge printet.
-Derudover kigger hele tiden på hvordan jeg kan forbedre print kvalitet, og gøre det nemmere at printe.
+Jeg bruger en Bambu Lab P1S med AMS (Automatic material system) som gør det muligt for mig at printe med op til 4 farver på samme tid.
+Derudover bruger en Creality CR-6 SE printer, Raspberry Pi med OctoPi og kamera, så jeg hele tiden kan overvåge printet.
