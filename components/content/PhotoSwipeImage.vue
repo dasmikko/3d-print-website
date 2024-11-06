@@ -3,6 +3,7 @@
     <a
       :href="src"
       class="photoswipe__link"
+      :class="classNames"
       :data-pswp-width="width"
       :data-pswp-height="height"
     >
@@ -29,6 +30,10 @@ const props = defineProps({
   },
   width: {
     type: String,
+  },
+  classNames: {
+    type: String,
+    default: ''
   }
 })
 </script>

@@ -1,3 +1,9 @@
+---
+loc: /faq
+title: 'FAQ (Ofte stillede spørgsmål)'
+description: 'Mest stillede spørgsmål om 3D print'
+---
+
 # FAQ (Ofte stillede spørgsmål)
 
 ## Hvordan bestiller jeg et 3D print?
@@ -72,4 +78,4 @@ Det er normalt at der kan være nogle små bump i overfladen på printet, da det
 ## Hvor præcist er printet?
 Det kan opstå mindre unøjagtigheder og artefakter på overfladen. Det er noget som kan opstå ved print. Jeg forsøger dog altid at minimere chancerne for dette.
  
-Vær opmærksom på, at jeg ikke påtager mig ansvar for de specifikke mål, funktioner eller pasform af modellen, da de er baseret på dine egne filer eller filer hentet fra eksterne kilder som Thingiverse, Thangs, Cults3D    eller lignende hjemmesider.
+**Vær opmærksom på, at jeg ikke påtager mig ansvar for de specifikke mål, funktioner eller pasform af modellen, da de er baseret på dine egne filer eller filer hentet fra eksterne kilder som Thingiverse, Thangs, Cults3D eller lignende hjemmesider.**

@@ -1,3 +1,9 @@
+---
+loc: /inspiration
+title: 'Inspiration'
+description: 'Inspiration til hvad man kan 3D printe'
+---
+
 # Inspiration
 
 Med en 3D printer er det kun fantasien der sætter grænser! Du kan vælge at designe din egen 3D model, eller finde en som en anden allerede har lavet.
