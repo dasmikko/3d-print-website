@@ -55,9 +55,20 @@
       h-[calc(100vh-5rem)];
 
     iframe {
-      @apply
-        w-full
-        h-full
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 100vw;
+      height: 100vh;
+      transform: translate(-50%, -50%);
+
+      @media (min-aspect-ratio: 16/9) {
+        height: 56.25vw
+      }
+
+      @media (max-aspect-ratio: 16/9) {
+        width: 177.78vh
+      }
     }
   }
 
