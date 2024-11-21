@@ -11,9 +11,9 @@ description: 'Tegning og print af prototyper'
 
 Har du en idé til et fantastisk produkt, men mangler at få det tegnet og printet? **Så er du kommet til det rette sted!**
 
-Jeg tilbyder nemlig at tegne og print af prototyper, ***(til en fair pris!)*** som kan bruges til visualiserings processen af dit produkt. Det kan også være du skal vise din idé til en investor, og har brug for en fysisk model, inden de kan tage en beslutning. Det kan også være du bare gerne vil have prøvet din idé af.
+Jeg tilbyder nemlig at tegne og print af prototyper, som kan bruges til visualiserings processen af dit produkt. Det kan også være du skal vise din idé til en investor, og har brug for en fysisk model, inden de kan tage en beslutning. Det kan også være du bare gerne vil have prøvet din idé af.
 
-Når tegning af modellen så er på plads, og du er tilfreds, så kan jeg printe modellen, så du har en fysisk model at vise frem. Du får naturligvis også filerne til modellen, hvis de skal bruges selve produktionen af produktet.
+Når tegning af modellen så er på plads, og du er tilfreds, så kan jeg printe modellen, så du har en fysisk model at vise frem. Du får naturligvis også filerne til modellen, hvis de skal bruges i selve produktionen af produktet.
 
 **OBS: Jeg tilbyder ikke tekniske tegninger. Mine tegninger er også med fokus på 3D print, og ikke til masseproducerings forme.**
 

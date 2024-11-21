@@ -52,8 +52,7 @@
       absolute top-0 left-0 z-0 w-full
       flex flex-col gap-4 justify-center items-center
       bg-gray-900 bg-opacity-50
-      h-[calc(100vh-5rem)]
-      px-8 md:px-0;
+      h-[calc(100vh-5rem)];
 
     iframe {
       @apply
