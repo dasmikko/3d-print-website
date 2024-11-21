@@ -42,6 +42,7 @@
     m-0
     relative
     h-[calc(100vh-5rem)]
+    overflow-hidden
     bg-cover
     bg-center
     bg-no-repeat
