@@ -14,7 +14,7 @@
       />
     </a>
     <slot />
-    <span class="italic ">Credit til <strong>{{ author }}</strong></span>
+    <span v-if="author" class="italic ">Credit til <strong>{{ author }}</strong></span>
   </div>
 </template>
 

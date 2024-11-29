@@ -7,16 +7,18 @@ description: 'Mest stillede spørgsmål om 3D print'
 # FAQ (Ofte stillede spørgsmål)
 
 ## Hvordan bestiller jeg et 3D print?
-Du finder eller laver den model du vil have printet, [skriver en mail til mig, inde på denne side](/faa-et-tilbud), og så vil jeg hurtigst muligt udarbejde et tilbud til dig. Hvis du så godkender tilbuddet, vil jeg sende dig en faktura, og så snart den er betalt vil jeg gå i gang med at printe din model.
+Du finder eller laver den model du vil have printet, [skriver en mail til mig, inde på denne side](/faa-et-tilbud), eller ringer til mig på **29 93 13 65** og så vil jeg hurtigst muligt udarbejde et tilbud til dig. Hvis du så godkender tilbuddet, vil jeg sende dig en faktura, og så snart den er betalt vil jeg gå i gang med at printe din model.
+
+Jeg tager i mod **MobilePay** og **bankoverførsel**.
 
 ## Hvad koster 3D print?
-Prisen på det du vil have printet, afhænger af størrelse og hvor meget hvor infill du vil have i printet.
+Prisen på det du vil have printet, afhænger af størrelse og hvor meget hvor infill du vil have i printet, samt hvilket materiale du vil have det printet i.
 
 Når man printer en 3D model, så printer man dem sjældent solide, da det vil tage væsentlig længere tid, og bruge meget filament. Selve printet bliver oftest heller ikke stærkere ved mere end 50% infill.
 
 Jeg har en minimums pris på **30kr**.
 
-Hvis det er noget småt der skal printets, er det muligt at printe flere på samme tid, og derved komme op på minimum prisen.
+Hvis det er noget småt der skal printets, er det muligt at printe flere på samme tid, og derved komme op på minimums prisen.
 
 ## Hvor stort må mit print være?
 Dit print må maksimalt være 20x20x20cm.
@@ -49,11 +51,14 @@ Jeg har pt. kun en hårdhed som er 72D, som er relativ hård.
 ## Hvor meget infill skal jeg vælge?
 Det afhænger af hvad du skal have printet, og hvilken funktion printet har. I mange tilfælde er 15-20% nok, så man stadig får et stærkt print, men samtidigt sparer på filament. Figurer og pynte ting, er det ofte nok med 10% infill, ellers er det en god tommelfinger regel at vælge 15-20% infill.
 
+Hvis du er i tvivl, så skriv til mig, så finder vi ud af det sammen.
+
 ## Hvilken type filament skal jeg vælge?
 I de fleste tilfælde er almindelig **PLA** fint, og vil give flotte resultater. Jeg benytter dog en PLA type som er modstandsdygtigt, som hedder **PLA-ST**, som giver super gode print.
 
 Hvis du skal printe noget skal kunne tåle varme, være mere UV-resistent skal du vælge **PETG**. Det er et stærkt, semi-fleksibelt materiale som kan tåle varme op til 70 grader, uden at det bliver blødt.
 
+Hvis du skal printe noget som skal være fleksibelt, skal du vælge **TPU**. Det er et meget fleksibelt materiale, som er godt til f.eks. telefon covers, eller andet som skal kunne bøjes.
 ## Er der noget efterbehandling af printet?
 Visse print er nødsaget til at bruge støtte materiale, som skal fjernes efter printet er færdigt. Det sikre at frithængende lag bliver printet korrekt. Jeg fjerner det selvfølgelig inden jeg sender eller du afhenter det.
 

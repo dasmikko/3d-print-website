@@ -10,6 +10,7 @@ Med en 3D printer er det kun fantasien der sætter grænser! Du kan vælge at de
 
 Du kan finde modeller på f.eks. disse sider:
 
+- https://makerworld.com
 - https://thingiverse.com
 - https://cults3d.com
 - https://printables.com
@@ -26,8 +27,10 @@ Benchmark modellen til at teste en 3D printer.
 En sjov OTF fidget kniv, lige til at lege med. Bare rolig den er ikke skarp! 
 ::
 
-::InspirationImage{ title="Hætte til Ruko nøgle" link="https://www.thingiverse.com/thing:6128432" src="https://cdn.thingiverse.com/assets/6b/dd/93/b7/22/large_display_7a51fce2-5dc0-436b-8bdf-3bddf1208076.jpg" author="Mig"}
-Har flere ens Ruko nøgler, og ikke kan se hvilken der passer til hvilken dør? Med denne smarte hætte, kan du nemt se hvilken nøgle der passer til hvilken dør! Det er endda mit eget design.
+::InspirationImage{ title="Hætte til Ruko nøgle" link="https://makerworld.com/en/models/719176" src="https://cdn.thingiverse.com/assets/6b/dd/93/b7/22/large_display_7a51fce2-5dc0-436b-8bdf-3bddf1208076.jpg"}
+Har flere ens Ruko nøgler, og ikke kan se hvilken der passer til hvilken dør? Med denne smarte hætte, kan du nemt se hvilken nøgle der passer til hvilken dør! 
+
+Det er endda mit eget design! 
 ::
 </div>
 
