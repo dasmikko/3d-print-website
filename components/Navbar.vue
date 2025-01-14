@@ -54,10 +54,6 @@ const toggleMenu = () => {
 
 const links = [
   {
-    name: 'Prototype',
-    path: '/prototype'
-  },
-  {
     name: 'Om mig',
     path: '/om-mig'
   },
