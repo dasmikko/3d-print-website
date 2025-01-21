@@ -29,6 +29,11 @@
             </NuxtLink>
           </li>
           <li>
+            <NuxtLink to="/handelsbetingelser">
+              Handelsbetingelser
+            </NuxtLink>
+          </li>
+          <li>
             <a href="https://dk.trustpilot.com/review/holbaek3dprint.dk" target="_blank">Trustpilot</a>
           </li>
         </ul>

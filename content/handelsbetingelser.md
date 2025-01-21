@@ -18,6 +18,13 @@ Email: dasmikko@gmail.com
 
 Hos Holbæk 3D Print er alle priserne i danske kroner og angivet excl. moms. Vi forbeholder os ret til fra dag til dag at ændre i priserne uden forudgående samtykke. Der tages forbehold for udsolgte varer.
 
+## Ansvar og Immaterielle Rettigheder
+
+Kunden bekræfter, at de har de nødvendige rettigheder til at bruge de 3D-filer, der indsendes til print, og at printet ikke krænker nogen tredjeparts rettigheder.
+
+Holbæk 3D Print forholder sig retten til at afvise ordrer, der indeholder materiale, der krænker tredjeparts rettigheder, eller som på anden måde er i strid med gældende lovgivning.
+
+
 ## Levering
 
 Vi sender til hele Danmark. Fragtpriser fra 35 kr. Varer vil blive leveret på leveringsadressen, der angives ved bestillingen.
@@ -57,29 +64,3 @@ I tilfælde af en værdiforringelse, som du hæfter for, fratrækkes denne købs
 
 Ved anvendelse af fortrydelsesretten, refunderes alle betalinger modtaget fra dig, herunder leveringsomkostninger (undtaget ekstra omkostninger som følge af dit valg af en anden leveringsform end den billigste form for standardlevering, som vi tilbyder), uden unødig forsinkelse og senest 14 dage fra den dato, hvor vi har modtaget meddelelse om din beslutning om at gøre brug af fortrydelsesretten. Tilbagebetaling gennemføres med samme betalingsmiddel, som du benyttede ved den oprindelige transaktion, medmindre du udtrykkeligt har indvilget i noget andet.
 Vi kan tilbageholde beløbsrefunderingen, indtil vi har modtaget varen retur, med mindre du inden da har fremlagt dokumentation for at have returneret den.
-
-## Persondatapolitik
-
-For at du kan indgå aftale med os og handle på vores hjemmeside, har vi brug for følgende oplysninger om dig:
-
-Navn  
-Adresse  
-Telefonnummer  
-E-mailadresse  
-Oplysning om hvad du har købt  
-
-Vi behandler dine personoplysninger med det formål, at kunne levere varen til dig, og for at kunne behandle henvendelser vedrørende dit køb. Behandlingen sker efter reglerne i vores persondatapolitik for Holbæk 3D Print. Heri kan du læse mere om, hvordan dine oplysninger behandles, hvornår de slettes, og hvilke rettigheder du har som registreret.
-
-Klagemuligheder – oversigt og links:
-
-Har du en klage over et produkt, købt i vores Webshop, kan der sendes en klage til:
-Konkurrence- og Forbrugerstyrelsens Center for Klageløsning
-Carl Jacobsens Vej 35
-2500 Valby
-Link: www.forbrug.dk
-
-Hvis du er forbruger med bopæl i et andet EU-land, kan du angive din klage i EU Kommissionens online klageplatform.
-Platformen findes her: http://ec.europa.eu/consumers/odr/
-Angiver du en klage her, skal du oplyse vores E-mail adresse: dasmikko@gmail.com
-
- 
