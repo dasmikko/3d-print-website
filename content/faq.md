@@ -7,9 +7,16 @@ description: 'Mest stillede spørgsmål om 3D print'
 # FAQ (Ofte stillede spørgsmål)
 
 ## Hvordan bestiller jeg et 3D print?
-Du finder eller laver den model du vil have printet, [skriver en mail til mig, inde på denne side](/faa-et-tilbud), eller ringer til mig på **29 93 13 65** og så vil jeg hurtigst muligt udarbejde et tilbud til dig. Hvis du så godkender tilbuddet, vil jeg sende dig en faktura, og så snart den er betalt vil jeg gå i gang med at printe din model.
+Du finder eller laver den model du vil have printet, [skriver en mail til mig, inde på denne side](/faa-et-tilbud), eller ringer til mig på **29 93 13 65** og så vil jeg hurtigst muligt udarbejde et tilbud til dig. Hvis du så godkender tilbuddet, så betaler du aftalte beløb, og jeg går i gang med at printe dit emne.
 
 Jeg tager i mod **MobilePay** og **bankoverførsel**.
+
+## Hvad kan jeg få printet?
+Du kan få printet næsten alt hvad du kan finde på. Det kan være alt fra reservedele, figurer, prototyper, eller andet. Der er næsten ingen grænser.
+
+Hvis du finder noget på diverse hjemmesider, skal du være opmærksom på at det er tilladt at printe det, og at det ikke er beskyttet af ophavsret. Jeg printer ikke noget som er beskyttet af ophavsret, med mindre du har tilladelse til det, og kan dokumentere det.
+
+Er du i tvivl, så skriv til mig, så finder vi ud af det sammen.
 
 ## Hvad koster 3D print?
 Prisen på det du vil have printet, afhænger af størrelse og hvor meget hvor infill du vil have i printet, samt hvilket materiale du vil have det printet i.
@@ -21,7 +28,16 @@ Jeg har en minimums pris på **30kr**.
 Hvis det er noget småt der skal printets, er det muligt at printe flere på samme tid, og derved komme op på minimums prisen.
 
 ## Hvor stort må mit print være?
-Dit print må maksimalt være 20x20x20cm.
+Dit print må maksimalt være 256x256x256mm.
+
+## Hvilke type filament kan jeg vælge?
+Jeg tilbyder følgende typer filament:
+- PLA
+- PLA-ST
+- PLA-Silk
+- PLA Matte
+- PETG
+- TPU
 
 ## Hvilke farver kan jeg vælge? 
 Lige nu tilbyder jeg følgende farver i PLA:
@@ -29,24 +45,28 @@ Lige nu tilbyder jeg følgende farver i PLA:
 - Sort
 - Gul
 - Rød
+- Lilla
+- Grøn
 - Flaming Orange
 - Hot Pink
 - Fluorescent grøn
 - Silky lilla
 - Silky grøn
 - Silky guld
+- Matte grøn
+- Matte hvid
+- Matte beige
 
 _**OBS: Silky filament er et specielt filament, som giver en flot overflade, og en flot glans. Det er dog ikke så stærkt som almindeligt PLA.**_
 
 I PETG tilbyder jeg følgende farver:
 - Gennemsigtig blå
+- Grå
 
 I TPU tilbyder jeg:
 - Sort
 
 Jeg har pt. kun en hårdhed som er 72D, som er relativ hård.
-
-**Billeder af farverne kommer snarest!**
 
 ## Hvor meget infill skal jeg vælge?
 Det afhænger af hvad du skal have printet, og hvilken funktion printet har. I mange tilfælde er 15-20% nok, så man stadig får et stærkt print, men samtidigt sparer på filament. Figurer og pynte ting, er det ofte nok med 10% infill, ellers er det en god tommelfinger regel at vælge 15-20% infill.
@@ -59,6 +79,7 @@ I de fleste tilfælde er almindelig **PLA** fint, og vil give flotte resultater.
 Hvis du skal printe noget skal kunne tåle varme, være mere UV-resistent skal du vælge **PETG**. Det er et stærkt, semi-fleksibelt materiale som kan tåle varme op til 70 grader, uden at det bliver blødt.
 
 Hvis du skal printe noget som skal være fleksibelt, skal du vælge **TPU**. Det er et meget fleksibelt materiale, som er godt til f.eks. telefon covers, eller andet som skal kunne bøjes.
+
 ## Er der noget efterbehandling af printet?
 Visse print er nødsaget til at bruge støtte materiale, som skal fjernes efter printet er færdigt. Det sikre at frithængende lag bliver printet korrekt. Jeg fjerner det selvfølgelig inden jeg sender eller du afhenter det.
 

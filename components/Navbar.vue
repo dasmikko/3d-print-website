@@ -54,8 +54,8 @@ const toggleMenu = () => {
 
 const links = [
   {
-    name: 'Prototype',
-    path: '/prototype'
+    name: 'Tegne opgaver',
+    path: '/tegne-opgaver'
   },
   {
     name: 'Om mig',
