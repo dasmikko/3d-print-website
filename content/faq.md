@@ -19,7 +19,7 @@ Hvis du finder noget på diverse hjemmesider, skal du være opmærksom på at de
 Er du i tvivl, så skriv til mig, så finder vi ud af det sammen.
 
 ## Hvad koster 3D print?
-Prisen på det du vil have printet, afhænger af størrelse og hvor meget hvor infill du vil have i printet, samt hvilket materiale du vil have det printet i.
+Prisen på det du vil have printet, afhænger af størrelse og hvor meget hvor hult emnet skal være, samt hvilket materiale du vil have det printet i.
 
 Når man printer en 3D model, så printer man dem sjældent solide, da det vil tage væsentlig længere tid, og bruge meget filament. Selve printet bliver oftest heller ikke stærkere ved mere end 50% infill.
 
@@ -90,7 +90,7 @@ Jeg er altid åben for at høre om dine ønsker til printet, og vil gøre mit be
 Det skyldes at man ikke har en reel flade at printe på og man kompenserer med at printe en ekstra overflade, som ikke er lige så pæn som den rigtige overflade. 
 
 ## Der er noget galt med mit print, hvad gør jeg?
-Skulle det ske at der er noget galt med dit print, så skriv til mig på [dasmikko@gmail.com](mailto:dasmikko@gmail.com) og vedhæft gerne et billede af printet. Så vil jeg gøre mit bedste for at finde en løsning.
+Skulle det ske at der er noget galt med dit print, så skriv til mig på [tilbud@holbaek3dprint.dk ](mailto:tilbud@holbaek3dprint.dk ) og vedhæft gerne et billede af printet. Så vil jeg gøre mit bedste for at finde en løsning.
 
 Ting som jeg betegner som fejl:
 
@@ -105,3 +105,6 @@ Det er normalt at der kan være nogle små bump i overfladen på printet, da det
 Det kan opstå mindre unøjagtigheder og artefakter på overfladen. Det er noget som kan opstå ved print. Jeg forsøger dog altid at minimere chancerne for dette.
  
 **Vær opmærksom på, at jeg ikke påtager mig ansvar for de specifikke mål, funktioner eller pasform af modellen, da de er baseret på dine egne filer eller filer hentet fra eksterne kilder som Thingiverse, Thangs, Cults3D eller lignende hjemmesider.**
+
+## Kan du 3D scanne noget for mig?
+Jeg har desværre ikke udstyret til at 3D scanne ting, men forventer at kunne tilbyde det i fremtiden.

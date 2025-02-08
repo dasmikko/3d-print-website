@@ -20,7 +20,7 @@
       <div>
         <h5>Kontakt</h5>
         <ul>
-          <li><a href="mailto:dasmikko@gmail.com">dasmikko@gmail.com</a></li>
+          <li><a href="mailto:tilbud@holbaek3dprint.dk ">tilbud@holbaek3dprint.dk </a></li>
         </ul>
       </div>
     </div>
