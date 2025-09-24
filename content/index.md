@@ -7,5 +7,8 @@ description: 'Billig og lokal 3D print'
 ::Hero
 ::
 
+::Projects
+::
+
 ::Examples
 ::
