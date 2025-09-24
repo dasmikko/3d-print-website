@@ -43,7 +43,7 @@
           </div>
         </a>
         <p>
-          Jeg tilyder en række type materialer og farver, lige til dit projekt eller opgave.
+          Jeg tilyder en række materialer og farver, lige til dit projekt eller opgave.
         </p>
         <p>Jeg tilbyder f.eks: <strong>PLA, PLA+, PETG, ABS.</strong> Hvis du er i tvivl, skal jeg nok vejlede i hvilken type der skal bruges.</p>
         <p>Jeg kan også skaffe hjem, hvis der er brug for noget, som jeg ikke har liggende.</p>
