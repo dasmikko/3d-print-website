@@ -1,0 +1,1 @@
+import{o,c as r,r as s}from"./l8rJeJdO.js";const a=["id"],d={__name:"ProseH3",props:{id:{type:String}},setup(e){return(t,n)=>(o(),r("h3",{id:e.id},[s(t.$slots,"default")],8,a))}};export{d as default};
