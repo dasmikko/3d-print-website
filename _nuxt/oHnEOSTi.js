@@ -1,1 +1,0 @@
-import{j as o,o as n,c as a}from"./l8rJeJdO.js";let s=null;function r(){return s}const C={__name:"CookieConsent",setup(c){const{gtag:k,grantConsent:l,revokeConsent:e}=useGtag();o(()=>!1);const t=()=>{r().removeCookie(),e(),alert("Cookie samtykke tilbagekaldt")};return(u,i)=>(n(),a("button",{onClick:t}," Tilbagekald cookie samtykke "))}};export{C as default};
