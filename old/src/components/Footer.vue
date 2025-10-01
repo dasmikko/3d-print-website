@@ -20,7 +20,7 @@
       <div>
         <h5>Kontakt</h5>
         <ul>
-          <li><a href="mailto:tilbud@holbaek3dprint.dk ">tilbud@holbaek3dprint.dk </a></li>
+          <li><a href="mailto:holbaek3dprint@protonmail.com ">holbaek3dprint@protonmail.com </a></li>
         </ul>
       </div>
     </div>

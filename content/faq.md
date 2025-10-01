@@ -90,7 +90,7 @@ Jeg er altid åben for at høre om dine ønsker til printet, og vil gøre mit be
 Det skyldes at man ikke har en reel flade at printe på og man kompenserer med at printe en ekstra overflade, som ikke er lige så pæn som den rigtige overflade. 
 
 ## Der er noget galt med mit print, hvad gør jeg?
-Skulle det ske at der er noget galt med dit print, så skriv til mig på [tilbud@holbaek3dprint.dk ](mailto:tilbud@holbaek3dprint.dk ) og vedhæft gerne et billede af printet. Så vil jeg gøre mit bedste for at finde en løsning.
+Skulle det ske at der er noget galt med dit print, så skriv til mig på [holbaek3dprint@protonmail.com ](mailto:holbaek3dprint@protonmail.com ) og vedhæft gerne et billede af printet. Så vil jeg gøre mit bedste for at finde en løsning.
 
 Ting som jeg betegner som fejl:
 

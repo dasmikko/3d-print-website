@@ -53,7 +53,7 @@
       <div>
         <h5>Kontakt</h5>
         <ul>
-          <li><MailIcon /> <a class="underline" href="mailto:tilbud@holbaek3dprint.dk ">tilbud@holbaek3dprint.dk</a></li>
+          <li><MailIcon /> <a class="underline" href="mailto:holbaek3dprint@protonmail.com">holbaek3dprint@protonmail.com</a></li>
           <li><PhoneIcon /> <div class="gap-0">
             <span class="block">29 93 13 65</span>
             <span class="italic">(Hverdage: Efter kl 16 / Weekend: 10 - 18)</span>

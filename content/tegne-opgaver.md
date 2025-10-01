@@ -38,6 +38,6 @@ Det afhænger at opgavens kompleksitet, og hvor meget tid der skal bruges på at
 
 **OBS: Jeg tilbyder ikke tekniske tegninger. Mine tegninger er også med fokus på 3D print, og ikke til masseproducerings forme.**
 
-Så hvis du er interesseret, eller har spørgsmål, så tøv ikke med at kontakte mig på [tilbud@holbaek3dprint.dk](mailto:tilbud@holbaek3dprint.dk). 
+Så hvis du er interesseret, eller har spørgsmål, så tøv ikke med at kontakte mig på [holbaek3dprint@protonmail.com](mailto:holbaek3dprint@protonmail.com). 
 
 Jeg ser frem til at høre fra dig!

@@ -12,7 +12,7 @@ Handelsbetingelser hos Holbæk 3D Print
 Holbæk 3D Print  
 Baggesens Have 30  
 4300 Holbæk  
-Email: tilbud@holbaek3dprint.dk 
+Email: holbaek3dprint@protonmail.com 
 
 ## Priser
 
