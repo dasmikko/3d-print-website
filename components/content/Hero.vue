@@ -75,7 +75,7 @@
   }
 
   .leading-content {
-    @apply absolute w-full flex flex-col gap-4 justify-center items-center
+    @apply absolute w-full text-center flex flex-col gap-4 justify-center items-center
     bg-gray-900 bg-opacity-80
     h-[calc(100vh-5rem)]
     px-8 md:px-0;
