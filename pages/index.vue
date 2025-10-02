@@ -14,6 +14,10 @@ const lightbox = new PhotoSwipeLightbox({
   pswpModule: () => import('photoswipe')
 });
 
+const route = useRoute()
+const { data: page } = await useAsyncData(route.path, () => {
+  return queryCollection('content').path(route.path).first()
+})
 
 onMounted(() => {
   // initialize lightbox
@@ -22,5 +26,5 @@ onMounted(() => {
 </script>
 
 <template>
-  <ContentDoc />
+  <ContentRenderer v-if="page" :value="page" />
 </template>

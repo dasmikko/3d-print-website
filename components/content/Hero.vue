@@ -19,6 +19,7 @@
         <p class="subtitle">
           Det er kun din fantasi der sætter grænsen!
         </p>
+        <p class="subtitle italic opacity-90">Psst... Jeg laver også tegne opgaver!</p>
 
         <NuxtLink
           role="button"
@@ -87,7 +88,7 @@
   }
 
   .subtitle {
-    @apply text-xl md:text-2xl;
+    @apply text-center text-xl md:text-2xl;
   }
 
   .button {

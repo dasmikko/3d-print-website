@@ -119,7 +119,7 @@ watch(() => route.path, () => {
     }
 
     .cta {
-      @apply bg-green-600 text-slate-200 font-bold rounded-full px-4 py-2 transition duration-150 no-underline;
+      @apply bg-green-600 text-white font-bold rounded-full px-4 py-2 transition duration-150 no-underline;
 
       &:hover {
         @apply bg-green-700 shadow-xl;
@@ -139,7 +139,7 @@ watch(() => route.path, () => {
     }
 
     .cta {
-      @apply bg-green-600 text-slate-200 font-bold rounded-full px-4 py-2 transition duration-150 no-underline;
+      @apply bg-green-600 text-white font-bold rounded-full px-4 py-2 transition duration-150 no-underline;
 
       &:hover {
         @apply bg-green-700 shadow-xl;
