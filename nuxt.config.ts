@@ -19,7 +19,8 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@formkit/auto-animate/nuxt',
     "@nuxtjs/sitemap",
-    '@primevue/nuxt-module'
+    '@primevue/nuxt-module',
+    'nuxt-gtag'
   ],
 
   content: {
@@ -30,7 +31,18 @@ export default defineNuxtConfig({
   site: {
     url: 'https://holbaek3dprint.dk',
   },
-
+  gtag: {
+    id: 'G-VC4KLM1PJT',
+    initCommands: [
+      ['consent', 'default', {
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+        analytics_storage: 'denied',
+        wait_for_update: 500
+      }]
+    ]
+  },
   compatibilityDate: '2024-07-04',
   primevue: {
     options: {

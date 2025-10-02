@@ -6,11 +6,14 @@
   </div>
 
   <Footer />
+
+  <CookieConsent />
 </template>
 
 <script setup>
 import Navbar from './components/Navbar.vue'
 import Footer from './components/Footer.vue'
+import CookieConsent from './components/content/CookieConsent.vue'
 import 'photoswipe/style.css'
 
 useHead({
