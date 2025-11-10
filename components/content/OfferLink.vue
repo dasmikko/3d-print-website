@@ -16,7 +16,7 @@ import {computed} from 'vue';
 const mailSubject = 'Ønske om tilbud'
 
 const linkHref = computed(() => {
-  return `mailto:holbaek3dprint@protonmail.com?subject=${mailSubject}`
+  return `mailto:tilbud@holbaek3dprint.dk?subject=${mailSubject}`
  })
 </script>
 

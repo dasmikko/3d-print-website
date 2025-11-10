@@ -28,7 +28,7 @@ Tryk på knappen, og der vil blive åbnet til en ny mail.
 ::OfferLink
 ::
 
-Du er også velkommen til at skrive til mig på [holbaek3dprint@protonmail.com](mailto:holbaek3dprint@protonmail.com).
+Du er også velkommen til at skrive til mig på [tilbud@holbaek3dprint.dk](mailto:tilbud@holbaek3dprint.dk).
 
 Hvis jeg ikke svarer, prøv at skrive til mig på [Facebook](https://www.facebook.com/holbaek3dprint/)
 
