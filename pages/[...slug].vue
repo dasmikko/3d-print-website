@@ -6,12 +6,24 @@
 
 <script setup>
 import PhotoSwipeLightbox from 'photoswipe/lightbox'
-import {onMounted} from 'vue';
+import {onMounted, watch} from 'vue';
 
 const route = useRoute()
 const { data: page } = await useAsyncData(route.path, () => {
   return queryCollection('content').path(route.path).first()
 })
+
+// Set page title and meta description from front-matter
+watch(() => page.value, (newPage) => {
+  if (newPage) {
+    useHead({
+      title: newPage.title,
+      meta: [
+        { name: 'description', content: newPage.description }
+      ]
+    })
+  }
+}, { immediate: true })
 
 const lightbox = new PhotoSwipeLightbox({
   // may select multiple "galleries"

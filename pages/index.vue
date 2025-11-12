@@ -19,6 +19,21 @@ const { data: page } = await useAsyncData(route.path, () => {
   return queryCollection('content').path(route.path).first()
 })
 
+
+// Set page title and meta description from front-matter
+watch(() => page.value, (newPage) => {
+  if (newPage) {
+    useHead({
+      title: newPage.title,
+      meta: [
+        { name: 'description', content: newPage.description }
+      ]
+    })
+  }
+}, { immediate: true })
+
+
+
 onMounted(() => {
   // initialize lightbox
   lightbox.init();
