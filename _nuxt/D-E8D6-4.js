@@ -1,0 +1,1 @@
+import{_ as t,n as a,c as o,o as n,a as c}from"#entry";const s=["href"],r="Ønske om tilbud",l={__name:"OfferLink",setup(_){const e=a(()=>`mailto:tilbud@holbaek3dprint.dk?subject=${r}`);return(d,i)=>(n(),o("p",null,[c("a",{class:"button inline-block",href:e.value,target:"_blank"},"Bed om tilbud",8,s)]))}},f=t(l,[["__scopeId","data-v-255cf3dd"]]);export{f as default};
