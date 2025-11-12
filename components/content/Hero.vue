@@ -14,7 +14,7 @@
     <div class="leading-content">
         <h1>Din lokale 3D-print service</h1>
         <p class="subtitle">
-          Hurtig og billig 3D print til dit projekt, drone, bil, pynt, osv...
+          Hurtig og kvalitets 3D print til dit projekt, drone, bil, indretning, specialdesign og meget mere
         </p>
         <p class="subtitle">
           Det er kun din fantasi der sætter grænsen!
@@ -75,7 +75,7 @@
   }
 
   .leading-content {
-    @apply absolute w-full text-center flex flex-col gap-4 justify-center items-center
+    @apply absolute w-full text-center flex flex-col gap-2 justify-center items-center
     bg-gray-900 bg-opacity-80
     h-[calc(100vh-5rem)]
     px-8 md:px-0;

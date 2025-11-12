@@ -42,12 +42,13 @@
         <h5>Social</h5>
         <ul>
           <li><BrandFacebookIcon /> <a href="https://www.facebook.com/holbaek3dprint/" target="_blank">Facebook</a></li>
+          <li><BrandInstagramIcon /> <a href="https://www.instagram.com/holbaek3dprint/" target="_blank">Instagram</a></li>
         </ul>
       </div>
       <div>
         <h5>Lokation</h5>
         <ul>
-          <li><HomeIcon /> Baggesens Have 30<br>4300 Holbæk</li>
+          <li><HomeIcon /> Baggesens Have 30<br>4300 Holbæk<br>(Efter aftale)</li>
         </ul>
       </div>
       <div>
@@ -65,7 +66,7 @@
 </template>
 
 <script setup>
-import { MailIcon, PhoneIcon,  HomeIcon, BrandFacebookIcon } from 'vue-tabler-icons'
+import { MailIcon, PhoneIcon,  HomeIcon, BrandFacebookIcon, BrandInstagramIcon } from 'vue-tabler-icons'
 </script>
 
 <style scoped lang="scss">
