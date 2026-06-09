@@ -28,11 +28,15 @@ Hvis du så godkender min tegning, så kommer jeg med den endelige pris på opga
 
 Skulle det ske at jeg ikke kan lave en tilfredsstillende tegning, eller vurdere jeg ikke kan løse opgaven, så vil jeg selvfølgelig ikke tage betaling for det.
 
-Du betaler først når du er tilfreds med tegningen, og jeg er sikker på at jeg kan løse opgaven, og skal printe emnet.
+**Du betaler først når du er tilfreds med tegningen, og jeg er sikker på at jeg kan løse opgaven, og skal printe emnet.**
 
 ## Hvad koster det?
 
 Det afhænger at opgavens kompleksitet, og hvor meget tid der skal bruges på at tegne modellen.
+
+Min pris er **1000 kr. for filen** samt **500 kr. i timen** for tegnearbejdet, hvor du ikke skal bruge selve 3D-printet.
+
+
 
 ## Tekniske tegninger
 
