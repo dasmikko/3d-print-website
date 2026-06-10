@@ -34,7 +34,7 @@ Skulle det ske at jeg ikke kan lave en tilfredsstillende tegning, eller vurdere 
 
 Det afhænger at opgavens kompleksitet, og hvor meget tid der skal bruges på at tegne modellen.
 
-Min pris er **1000 kr. for filen** samt **500 kr. i timen** for tegnearbejdet, hvor du ikke skal bruge selve 3D-printet.
+Min pris er **1000 kr. for filen** samt **500 kr. i timen** for tegnearbejdet. Denne pris gælder kun rene tegneopgaver, hvor du ikke skal bruge selve 3D-printet.
 
 
 
