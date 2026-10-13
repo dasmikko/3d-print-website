@@ -3,7 +3,7 @@
     <div class="footer-inner">
       <div class="items-start">
         <h4>Holbæk 3D Print</h4>
-        <p>Lokal, personlig og billig 3D print.</p>
+        <p>Lokal, personlig og billig 3D print.<br><span class="italic">- Et hobbyprojekt drevet af passion.</span></p>
         <img
           src="/logo-noinfill.svg"
           alt="Logo"

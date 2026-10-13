@@ -15,6 +15,8 @@ Jeg har haft en kæmpe interesse for 3D-print i mange år, og har fulgt med i ud
 
 Jeg startede Holbæk 3D Print, fordi jeg gerne vil give alle muligheden for at udnytte det smarte ved 3D print - uden selv at skulle investere i dyrt udstyr eller lære komplekse programmer.
 
+Holbæk 3D Print er et hobbyprojekt, som jeg driver ved siden af mit fuldtidsjob. Det betyder, at jeg printer og svarer på henvendelser om aftenen og i weekenden, men også at du får personlig service og en fair pris.
+
 Tit har man et eller andet i plastik som er gået i stykker, og oftest er der allerede nogen som har designet en 3D model til at løse netop det problem. Jeg hjælper dig med at finde, tilpasse eller designe den rigtige løsning.
 
 **Eksempel:** Stroppen til min rygsæk gik i stykker. Efter et mislykket forsøg på at lime den, printede jeg bare en ny - stærkere og bedre end originalen.

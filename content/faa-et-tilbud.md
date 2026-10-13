@@ -7,7 +7,7 @@ description: 'Få dit tilbud på et 3D printet emne, til en skarp pris!'
 
 # Få et tilbud
 
-Fedt! Jeg ser frem til at høre hvad du vil have printet. Hvis du beder om et tilbud inden kl 17, bestræber jeg efter at sende tilbuddet samme dag. Ellers vil du modtage det næste hverdag.
+Fedt! Jeg ser frem til at høre hvad du vil have printet. Da jeg laver 3D print i min fritid ved siden af mit arbejde, kan der en gang imellem gå lidt længere tid, før du hører fra mig. Hvis du beder om et tilbud inden kl 17, bestræber jeg mig dog på at sende tilbuddet samme dag. Ellers vil du modtage det næste hverdag.
 
 [Har du husket at kigge FAQ'en igennem?](/faq)
 
